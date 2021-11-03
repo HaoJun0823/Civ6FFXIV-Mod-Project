@@ -114,7 +114,7 @@
 	<StartBiasFeatures>
 		
 		<Row CivilizationType="CIVILIZATION_FFXIV_2_FOREST" FeatureType="FEATURE_FOREST" Tier="5"/>
-		<Row CivilizationType="CIVILIZATION_FFXIV_2_FOREST" FeatureType="FEATURE_MARSH" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_FFXIV_2_FOREST" FeatureType="FEATURE_MARSH" Tier="1"/>
 
 		<Row CivilizationType="CIVILIZATION_FFXIV_2_SEA" FeatureType="FEATURE_JUNGLE" Tier="2"/>
 
