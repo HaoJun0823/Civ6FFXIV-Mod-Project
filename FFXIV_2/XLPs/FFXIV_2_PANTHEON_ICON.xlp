@@ -10,64 +10,84 @@
 	<m_PackageName text="FFXIV_2_PANTHEON_ICON"/>
 	<m_Entries>
 		<Element>
-			<m_EntryID text="BELIEF_FFXIV_2_FIRE_100"/>
-			<m_ObjectName text="BELIEF_FFXIV_2_FIRE_100"/>
+			<m_EntryID text="BELIEF_FFXIV_2_FIRE_256"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_FIRE_256"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BELIEF_FFXIV_2_FIRE_22"/>
-			<m_ObjectName text="BELIEF_FFXIV_2_FIRE_22"/>
+			<m_EntryID text="BELIEF_FFXIV_2_FIRE_32"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_FIRE_32"/>
 		</Element>
 		<Element>
 			<m_EntryID text="BELIEF_FFXIV_2_FIRE_50"/>
 			<m_ObjectName text="BELIEF_FFXIV_2_FIRE_50"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BELIEF_FFXIV_2_LAND_100"/>
-			<m_ObjectName text="BELIEF_FFXIV_2_LAND_100"/>
+			<m_EntryID text="BELIEF_FFXIV_2_FIRE_64"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_FIRE_64"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BELIEF_FFXIV_2_LAND_22"/>
-			<m_ObjectName text="BELIEF_FFXIV_2_LAND_22"/>
+			<m_EntryID text="BELIEF_FFXIV_2_LAND_256"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_LAND_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_LAND_32"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_LAND_32"/>
 		</Element>
 		<Element>
 			<m_EntryID text="BELIEF_FFXIV_2_LAND_50"/>
 			<m_ObjectName text="BELIEF_FFXIV_2_LAND_50"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BELIEF_FFXIV_2_THUNDER_100"/>
-			<m_ObjectName text="BELIEF_FFXIV_2_THUNDER_100"/>
+			<m_EntryID text="BELIEF_FFXIV_2_LAND_64"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_LAND_64"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BELIEF_FFXIV_2_THUNDER_22"/>
-			<m_ObjectName text="BELIEF_FFXIV_2_THUNDER_22"/>
+			<m_EntryID text="BELIEF_FFXIV_2_THUNDER_256"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_THUNDER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_THUNDER_32"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_THUNDER_32"/>
 		</Element>
 		<Element>
 			<m_EntryID text="BELIEF_FFXIV_2_THUNDER_50"/>
 			<m_ObjectName text="BELIEF_FFXIV_2_THUNDER_50"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BELIEF_FFXIV_2_WATER_100"/>
-			<m_ObjectName text="BELIEF_FFXIV_2_WATER_100"/>
+			<m_EntryID text="BELIEF_FFXIV_2_THUNDER_64"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_THUNDER_64"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BELIEF_FFXIV_2_WATER_22"/>
-			<m_ObjectName text="BELIEF_FFXIV_2_WATER_22"/>
+			<m_EntryID text="BELIEF_FFXIV_2_WATER_256"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WATER_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_WATER_32"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WATER_32"/>
 		</Element>
 		<Element>
 			<m_EntryID text="BELIEF_FFXIV_2_WATER_50"/>
 			<m_ObjectName text="BELIEF_FFXIV_2_WATER_50"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BELIEF_FFXIV_2_WIND_100"/>
-			<m_ObjectName text="BELIEF_FFXIV_2_WIND_100"/>
+			<m_EntryID text="BELIEF_FFXIV_2_WATER_64"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WATER_64"/>
 		</Element>
 		<Element>
-			<m_EntryID text="BELIEF_FFXIV_2_WIND_22"/>
-			<m_ObjectName text="BELIEF_FFXIV_2_WIND_22"/>
+			<m_EntryID text="BELIEF_FFXIV_2_WIND_256"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WIND_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_WIND_32"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WIND_32"/>
 		</Element>
 		<Element>
 			<m_EntryID text="BELIEF_FFXIV_2_WIND_50"/>
 			<m_ObjectName text="BELIEF_FFXIV_2_WIND_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_WIND_64"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WIND_64"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
