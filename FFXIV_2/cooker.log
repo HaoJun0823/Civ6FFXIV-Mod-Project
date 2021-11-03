@@ -7,7 +7,7 @@ Could not load digest key: ''.  Using mod key to sign BLP.
 Starting 'FFXIV_2_UNDONE'
 Load finished for: 'FFXIV_2_UNDONE' in 0.002 seconds
 Cook finished for: 'FFXIV_2_UNDONE' in 0.007 seconds
-Disk write finished for: 'FFXIV_2_UNDONE' in 0.082 seconds
+Disk write finished for: 'FFXIV_2_UNDONE' in 0.070 seconds
 Cleanup finished for: 'FFXIV_2_UNDONE' in 0.000 seconds
 XLP cook completed with success.
-Cook completed in 0.105 seconds
+Cook completed in 0.092 seconds

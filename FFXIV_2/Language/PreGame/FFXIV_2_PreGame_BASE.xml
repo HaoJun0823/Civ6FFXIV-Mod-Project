@@ -68,7 +68,7 @@
 			<Text>The Order of the Twin Adder</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FFXIV_2_FOREST_DESCRIPTION" >
-			<Text>Replace the archer. Start an action in own city, +1 mobility + 10 combat power.</Text>
+			<Text>Replace the archer. Start an action in homeland, +1 mobility + 5 combat power.</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FFXIV_2_FOREST_NAME" >
 			<Text>Magic Fruit Workshop</Text>

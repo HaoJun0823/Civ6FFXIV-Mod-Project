@@ -68,7 +68,7 @@
 			<Text>双蛇党</Text>
 		</Row>
 		<Row Tag="LOC_UNIT_FFXIV_2_FOREST_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>替代弓箭手。于本土内开始行动+1移动力+10战斗力。</Text>
+			<Text>替代弓箭手。于首都大陆内开始行动+1移动力+5战斗力。</Text>
 		</Row>
 		<Row Tag="LOC_BUILDING_FFXIV_2_FOREST_NAME" Language="zh_Hans_CN">
 			<Text>姆恩·图伊豆工坊</Text>
