@@ -371,11 +371,11 @@
 										<m_ParamName text="Xref"/>
 									</Element>
 									<Element class="AssetObjects..ArtDefReferenceValue">
-										<m_ElementName text="NONE"/>
-										<m_RootCollectionName text="WallSet"/>
+										<m_ElementName text=""/>
+										<m_RootCollectionName text=""/>
 										<m_ArtDefPath text=""/>
-										<m_CollectionIsLocked>true</m_CollectionIsLocked>
-										<m_TemplateName text="DynamicGeo"/>
+										<m_CollectionIsLocked>false</m_CollectionIsLocked>
+										<m_TemplateName text=""/>
 										<m_ParamName text="Fence"/>
 									</Element>
 									<Element class="AssetObjects..IntValue">
@@ -389,7 +389,7 @@
 								</m_Values>
 							</m_Fields>
 							<m_ChildCollections/>
-							<m_Name text="Landmark1"/>
+							<m_Name text="GoodyHut"/>
 							<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 						</Element>
 					</Element>
