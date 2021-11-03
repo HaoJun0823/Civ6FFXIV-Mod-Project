@@ -47,31 +47,31 @@
 			<Text>Ifrit</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_FIRE_DESCRIPTION" >
-			<Text>Upgraded units do not require strategic resources, +2 housing in each area of the city.[NEWLINE][COLOR_FLOAT_PRODUCTION]Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+			<Text>Upgraded units do not require strategic resources, +2 housing in each area of the city.[NEWLINE][COLOR_FLOAT_PRODUCTION]City:Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_WIND_NAME" >
 			<Text>Garuda</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_WIND_DESCRIPTION" >
-			<Text>Gained by harvesting resources is +50%, and all units have +1 movement.[NEWLINE][COLOR_FLOAT_PRODUCTION]Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+			<Text>Gained by harvesting resources is +50%, military unit production increased by 30%.[NEWLINE][COLOR_FLOAT_PRODUCTION]City:Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_LAND_NAME" >
 			<Text>Titan</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_LAND_DESCRIPTION" >
-			<Text>+2 [ICON_PRODUCTION] in mines and quarries, this effect doubles in the golden age.[NEWLINE][COLOR_FLOAT_PRODUCTION]Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+			<Text>+2 [ICON_PRODUCTION] in mines and quarries, this effect doubles in the golden age.[NEWLINE][COLOR_FLOAT_PRODUCTION]City:Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_THUNDER_NAME" >
 			<Text>Ramuh</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_THUNDER_DESCRIPTION" >
-			<Text>Buying plot is 50% cheaper. As the times progress, New Wonders will receive additional.[ICON_PRODUCTION] bonuses, with a minimum of 10% and a maximum of 80%.[NEWLINE][COLOR_FLOAT_PRODUCTION]Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+			<Text>An additional district can be built without population, As the times progress, New Wonders will receive additional.[ICON_PRODUCTION] bonuses, with a minimum of 10% and a maximum of 80%.[NEWLINE][COLOR_FLOAT_PRODUCTION]City:Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_WATER_NAME" >
 			<Text>Leviathan</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_WATER_DESCRIPTION" >
-			<Text>Coast +1 [ICON_PRODUCTION], ocean +3 [ICON_FAITH], when fighting in the coast, units can restore their health based on 75% of their combat power.[NEWLINE][COLOR_FLOAT_PRODUCTION]Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+			<Text>Coast +1 [ICON_PRODUCTION], ocean +3 [ICON_FAITH], when fighting in the coast, units can restore their health based on 75% of their combat power.[NEWLINE][COLOR_FLOAT_PRODUCTION]City:Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
 		</Row>
 	</BaseGameText>
 

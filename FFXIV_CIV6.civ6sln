@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "FFXIV_2", "FFXIV_2\FFXIV_2.civ6proj", "{94A9E132-9878-47B3-BC70-3BB97F8605EB}"
 EndProject
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "FFXIV_3", "FFXIV_3\FFXIV_3.civ6proj", "{D21F9C0C-3691-42A7-901D-B14E7656FB48}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Civ6 = Default|Civ6
@@ -12,6 +14,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{94A9E132-9878-47B3-BC70-3BB97F8605EB}.Default|Civ6.ActiveCfg = Default|Civ6
 		{94A9E132-9878-47B3-BC70-3BB97F8605EB}.Default|Civ6.Build.0 = Default|Civ6
+		{D21F9C0C-3691-42A7-901D-B14E7656FB48}.Default|Civ6.ActiveCfg = Default|Civ6
+		{D21F9C0C-3691-42A7-901D-B14E7656FB48}.Default|Civ6.Build.0 = Default|Civ6
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

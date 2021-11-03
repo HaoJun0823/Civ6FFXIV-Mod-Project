@@ -8,31 +8,31 @@
 			<Text>伊弗利特</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_FIRE_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>升级单位无需战略资源，城市每个区域+2住房。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+			<Text>升级单位无需战略资源，城市每个区域+2住房。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神的城市-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_WIND_NAME" Language="zh_Hans_CN">
 			<Text>迦楼罗</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_WIND_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>移除地貌获得的产出+50%，所有单位+1移动力。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+			<Text>移除地貌获得的产出+50%，军事单位生产力提高30%。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神的城市-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_LAND_NAME" Language="zh_Hans_CN">
 			<Text>泰坦</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_LAND_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>矿山及采石场+2生产力，处于黄金时代时该效果翻倍。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+			<Text>矿山及采石场+2生产力，处于黄金时代时该效果翻倍。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神的城市-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_THUNDER_NAME" Language="zh_Hans_CN">
 			<Text>拉姆</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_THUNDER_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>购买单元格便宜50%，随着时代的进步，新奇观会获得额外的生产力加成，最低10%，最高80%。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+			<Text>不需要人口即可额外建造一个区域，随着时代的进步，新奇观会获得额外的生产力加成，最低10%，最高80%。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神的城市-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_WATER_NAME" Language="zh_Hans_CN">
 			<Text>利维亚桑</Text>
 		</Row>
 		<Row Tag="LOC_BELIEF_FFXIV_2_WATER_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>海洋+1生产力，深海+3信仰，在海洋战斗时单位可根据75%战斗力恢复生命值。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+			<Text>海洋+1生产力，深海+3信仰，在海洋战斗时单位可根据75%战斗力恢复生命值。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神的城市-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
 		</Row>
 	</LocalizedText>
 	<LocalizedText>

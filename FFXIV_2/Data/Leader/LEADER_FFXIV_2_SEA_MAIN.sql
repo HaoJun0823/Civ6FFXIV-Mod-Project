@@ -29,7 +29,11 @@ INSERT INTO Modifiers (ModifierId, ModifierType, RunOnce, Permanent, NewOnly, Ow
 INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES 
 ('MODIFIER_FFXIV_2_CITY_UNIT_SEA_PRODUCTION_ATTACH', 'ModifierId', 'MODIFIER_FFXIV_2_CITY_UNIT_SEA_PRODUCTION');
 
+INSERT INTO Modifiers (ModifierId, ModifierType, RunOnce, Permanent, NewOnly, OwnerRequirementSetId, SubjectRequirementSetId) VALUES 
+('MODIFIER_FFXIV_2_CITY_UNIT_SEA_PRODUCTION_ATTACH_MODIFIER', 'MODIFIER_SINGLE_CITY_ATTACH_MODIFIER', 0, 0, 0, NULL, NULL);
 
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES 
+('MODIFIER_FFXIV_2_CITY_UNIT_SEA_PRODUCTION_ATTACH_MODIFIER', 'ModifierId', 'MODIFIER_FFXIV_2_CITY_UNIT_SEA_PRODUCTION');
 
 
 INSERT INTO Modifiers (ModifierId, ModifierType, RunOnce, Permanent, NewOnly, OwnerRequirementSetId, SubjectRequirementSetId) VALUES 
