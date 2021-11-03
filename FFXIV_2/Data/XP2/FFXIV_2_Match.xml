@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Match -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 9:04:02 PM -->
+<GameData>
+	<Types>
+		<!--<Row Type="EMERGENCY_GRAND_DEFENSE" Kind="KIND_DIPLOMACY_EMERGENCY"/>-->
+	</Types>
+	<EmergencyAlliances>
+		
+	</EmergencyAlliances>
+	
+	<Emergencies_XP2>
+		
+	</Emergencies_XP2>
+	
+	<EmergencyBuffs>
+		
+	</EmergencyBuffs>
+	
+	<EmergencyRewards>
+		
+	</EmergencyRewards>
+
+	<EmergencyTexts>
+		
+	</EmergencyTexts>
+
+	<EmergencyGoalTexts>
+		
+	</EmergencyGoalTexts>
+
+	<EmergencyScoreSources>
+		
+	</EmergencyScoreSources>
+	
+</GameData>
+

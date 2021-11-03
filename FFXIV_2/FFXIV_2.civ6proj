@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>FINAL FANTASY XIV:A Realm Reborn In Civilization VI</Name>
+    <Guid>ee94f44a-21d4-4e31-be6f-b64bd8c22309</Guid>
+    <ProjectGuid>94a9e132-9878-47b3-bc70-3bb97f8605eb</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Listen, feel, think</Teaser>
+    <Description>Add the content of Final Fantasy 14 2.0 to Civilization 6!
+
+Note: The Mod is unofficially provided and supported. It is created by the player personally. The assets of the Mod will do their best to comply with relevant re-creation related licenses, and the quoted assets belong to the corresponding creator.
+
+注意：该Mod非官方提供与支持，由玩家个人创作，Mod的资产会尽最大努力遵循相关再创作相关许可，引用的资产属于对应的创作者。</Description>
+    <Authors>Randerion(HaoJun0823)</Authors>
+    <SpecialThanks>Square enix &amp; Warrior of Light</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssemblyName>FFXIV_2</AssemblyName>
+    <RootNamespace>FFXIV_2</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateArt id="FFXIV_2_PreGame_Art"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateColors id="FFXIV_2_PreGame_Colors" /><UpdateIcons id="FFXIV_2_PreGame_Icons"><File>Icons/PreGame_Icons.xml</File><File>Icons/PreGame_Object_Icons.xml</File></UpdateIcons><UpdateDatabase id="FFXIV_2_PreGame_Data"><File>Config/XP2/FFXIV_2_Config.xml</File></UpdateDatabase><UpdateText id="FFXIV_2_PreGame_Text"><File>Language/PreGame/FFXIV_2_PreGame_BASE.xml</File><File>Language/PreGame/FFXIV_2_PreGame_CHS.xml</File></UpdateText></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateArt id="FFXIV_2_InGame_Art"><Criteria>LeaderCriteria</Criteria><File>(Mod Art Dependency File)</File></UpdateArt><UpdateColors id="FFXIV_2_InGame_Colors" /><UpdateIcons id="FFXIV_2_InGame_Icons"><File>Icons/InGame_Icons.xml</File><File>Icons/PreGame_Icons.xml</File><File>Icons/PreGame_Object_Icons.xml</File></UpdateIcons><UpdateDatabase id="FFXIV_2_InGame_Data"><File>Data/Civilization/FFXIV_2_Civilization_Core.xml</File><File>Data/Leader/FFXIV_2_Agenda_Core.xml</File><File>Data/Leader/FFXIV_2_Leader_Core.xml</File><File>Data/FFXIV_2_Leader_Civilization_Agenda_Adapter.xml</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_GAMEMODE_AGENT_Data"><File>Data/GAMEMODE/AGENT.xml</File></UpdateDatabase><UpdateIcons id="FFXIV_2_InGame_GAMEMODE_AGENT_Icon"><File>Icons/GAMEMODE_AGENT_Icons.xml</File></UpdateIcons><UpdateText id="FFXIV_2_InGame_GAMEMODE_AGENT_Text"><File>Language/InGame/GAMEMODE/GAMEMODE_AGENT_InGame_Base.xml</File><File>Language/InGame/GAMEMODE/GAMEMODE_AGENT_InGame_CHS.xml</File></UpdateText><UpdateText id="FFXIV_2_InGame_Text"><File>Language/InGame/FFXIV_2_Civilization_InGame_BASE.xml</File><File>Language/InGame/FFXIV_2_Civilization_InGame_CHS.xml</File><File>Language/Wiki/FFXIV_2_CORE_BASE.xml</File><File>Language/Wiki/FFXIV_2_CORE_CHS.xml</File><File>Language/InGame/FFXIV_2_Leader_InGame_BASE.xml</File><File>Language/InGame/FFXIV_2_Leader_InGame_CHS.xml</File><File>Language/InGame/FFXIV_2_Core_InGame_CHS.xml</File><File>Language/InGame/FFXIV_2_Core_InGame_BASE.xml</File><File>Language/PreGame/FFXIV_2_PreGame_BASE.xml</File><File>Language/PreGame/FFXIV_2_PreGame_CHS.xml</File></UpdateText><UpdateLogitechARX id="FFXIV_2_ARX"><File>ARX/Civ_LEADER_FFXIV_2_DESERT_MAIN.png</File><File>ARX/Civ_LEADER_FFXIV_2_FOREST_MAIN.png</File><File>ARX/Civ_LEADER_FFXIV_2_SEA_MAIN.png</File></UpdateLogitechARX><UpdateDatabase id="FFXIV_2_InGame_OLD_COLORS"><File>Colors/Old_PlayerColors.xml</File><File>Colors/Religion_Colors.xml</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_Data_Belief"><File>Data/Belief/FFXIV_2_Belief_Core.sql</File><File>Data/Belief/FFXIV_2_Belief_Core.xml</File><File>Data/Belief/FFXIV_2_Religion_Core.xml</File><File>Data/Belief/FFXIV_2_Religion_Leader.xml</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_Data_Leader_Civilization_Trait"><File>Data/Civilization/FFXIV_2_Civilization_Core_Desert.sql</File><File>Data/Civilization/FFXIV_2_Civilization_Core_Forest.sql</File><File>Data/Civilization/FFXIV_2_Civilization_Core_Sea.sql</File><File>Data/Leader/LEADER_FFXIV_2_DESERT_MAIN.sql</File><File>Data/Leader/LEADER_FFXIV_2_FOREST_MAIN.sql</File><File>Data/Leader/LEADER_FFXIV_2_SEA_MAIN.sql</File><File>Data/Civilization/FFXIV_2_Civilization_ARMY.sql</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_Data_Unit"><File>Data/Unit/FFXIV_2_Unit_Core.xml</File><File>Data/Unit/FFXIV_2_Unit_Core.sql</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_DEBUG" /><UpdateDatabase id="FFXIV_2_InGame_Data_Building"><File>Data/Building/FFXIV_2_Building_Core.sql</File><File>Data/Building/FFXIV_2_Building_Core.xml</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_Data_District"><File>Data/District/FFXIV_2_District_Core.sql</File><File>Data/District/FFXIV_2_District_Core.xml</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_Data_Improvement"><File>Data/Improvement/FFXIV_2_Improvement_Core.xml</File><File>Data/Improvement/FFXIV_2_Improvement_Core.sql</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_Data_Minor_City"><File>Data/Minor/FFXIV_2_Minor_City.xml</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_Data_AI"><File>Data/Leader/AI/LEADER_DESERT_MAIN.xml</File><File>Data/Leader/AI/LEADER_SEA_MAIN.xml</File><File>Data/Leader/AI/LEADER_FOREST_MAIN.xml</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_Data_XP1"><File>Data/XP1/FFXIV_2_Moment.xml</File></UpdateDatabase><UpdateDatabase id="FFXIV_2_InGame_Data_XP2"><File>Data/XP2/FFXIV_2_Match.xml</File></UpdateDatabase><UpdateText id="FFXIV_2_TAG"><File>Language/FFXIV_2_TAG.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+    <ActionCriteriaData>
+      <ActionCriteria>
+        <Criteria id="LeaderCriteria">
+          <LeaderPlayable>Expansion2_Players::LEADER_FFXIV_2_FOREST_MAIN,Players:Expansion2_Players::LEADER_FFXIV_2_SEA_MAIN,Players:Expansion2_Players::LEADER_FFXIV_2_DESERT_MAIN</LeaderPlayable>
+        </Criteria>
+      </ActionCriteria>
+    </ActionCriteriaData>
+    <Homepage>https://steamcommunity.com/id/HaoJun0823/</Homepage>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="FFXIV_2.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Config\GameMode" />
+    <Folder Include="Config\XP2" />
+    <Folder Include="Data" />
+    <Folder Include="Data\Leader" />
+    <Folder Include="Data\Civilization" />
+    <Folder Include="Config" />
+    <Folder Include="Data\Belief" />
+    <Folder Include="Data\Improvement" />
+    <Folder Include="Data\District" />
+    <Folder Include="Data\Building" />
+    <Folder Include="Data\GAMEMODE" />
+    <Folder Include="Data\Leader\AI" />
+    <Folder Include="Data\Minor" />
+    <Folder Include="Data\XP1" />
+    <Folder Include="Data\XP2" />
+    <Folder Include="Data\Unit" />
+    <Folder Include="Language" />
+    <Folder Include="Language\InGame" />
+    <Folder Include="Language\InGame\GAMEMODE" />
+    <Folder Include="Language\Wiki" />
+    <Folder Include="Language\PreGame" />
+    <Folder Include="ARX" />
+    <Folder Include="Icons" />
+    <Folder Include="Colors" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ARX\Civ_LEADER_FFXIV_2_DESERT_MAIN.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ARX\Civ_LEADER_FFXIV_2_FOREST_MAIN.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ARX\Civ_LEADER_FFXIV_2_SEA_MAIN.png">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Colors\Old_PlayerColors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Colors\PlayerColors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Colors\Religion_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\GameMode\FFXIV_2_GAMEMODE_AGENT.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Config\XP2\FFXIV_2_Config.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Belief\FFXIV_2_Belief_Core.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Belief\FFXIV_2_Belief_Core.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Belief\FFXIV_2_Religion_Core.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Belief\FFXIV_2_Religion_Leader.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Building\FFXIV_2_Building_Core.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Building\FFXIV_2_Building_Core.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Civilization\FFXIV_2_Civilization_ARMY.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Civilization\FFXIV_2_Civilization_Core_Desert.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Civilization\FFXIV_2_Civilization_Core_Forest.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Civilization\FFXIV_2_Civilization_Core.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Civilization\FFXIV_2_Civilization_Core_Sea.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\District\FFXIV_2_District_Core.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\District\FFXIV_2_District_Core.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\FFXIV_2_Leader_Civilization_Agenda_Adapter.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\GAMEMODE\AGENT.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Improvement\FFXIV_2_Improvement_Core.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Improvement\FFXIV_2_Improvement_Core.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Leader\AI\LEADER_DESERT_MAIN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Leader\AI\LEADER_FOREST_MAIN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Leader\AI\LEADER_SEA_MAIN.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Leader\FFXIV_2_Agenda_Core.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Leader\FFXIV_2_Leader_Core.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Leader\LEADER_FFXIV_2_DESERT_MAIN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Leader\LEADER_FFXIV_2_FOREST_MAIN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Leader\LEADER_FFXIV_2_SEA_MAIN.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Minor\FFXIV_2_Minor_City.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Unit\FFXIV_2_Unit_Core.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\Unit\FFXIV_2_Unit_Core.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\XP1\FFXIV_2_Moment.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Data\XP2\FFXIV_2_Match.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Icons\GAMEMODE_AGENT_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Icons\InGame_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Icons\PreGame_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Icons\PreGame_Object_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\FFXIV_2_TAG.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\InGame\FFXIV_2_Civilization_InGame_BASE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\InGame\FFXIV_2_Civilization_InGame_CHS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\InGame\FFXIV_2_Core_InGame_BASE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\InGame\FFXIV_2_Core_InGame_CHS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\InGame\FFXIV_2_Leader_InGame_BASE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\InGame\FFXIV_2_Leader_InGame_CHS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\InGame\GAMEMODE\GAMEMODE_AGENT_InGame_Base.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\InGame\GAMEMODE\GAMEMODE_AGENT_InGame_CHS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\PreGame\FFXIV_2_PreGame_BASE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\PreGame\FFXIV_2_PreGame_CHS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\Wiki\FFXIV_2_CORE_BASE.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Language\Wiki\FFXIV_2_CORE_CHS.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

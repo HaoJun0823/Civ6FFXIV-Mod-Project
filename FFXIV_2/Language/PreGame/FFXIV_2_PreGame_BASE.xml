@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_PreGame_BASE -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 8:14:03 PM -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_FOREST_CORE_DESCRIPTION" >
+			<Text>Unable to harvest resources, forest and jungle terrain +1 food +2 faith, water mill extra +2 culture and provide +1 production for all freshwater plots in the city.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_FOREST_CORE_NAME" >
+			<Text>Capital of Forests and Waterwheels</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_FOREST_NAME" >
+			<Text>Gridania</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_FOREST_MAIN_DESCRIPTION" >
+			<Text>All units recover +10, and all units can be purchased with faith points.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_FOREST_MAIN_NAME" >
+			<Text>Seedseers</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FFXIV_2_FOREST_MAIN_NAME" >
+			<Text>Kan-E-Senna</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_SEA_CORE_DESCRIPTION" >
+			<Text>Fishing boats +1 production, +1 food, maritime merchants are immune to plunder, plunder extra +50%, urban war exhaustion is reduced by 50%, sailing technology is free.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_SEA_CORE_NAME" >
+			<Text>Capital of Freedom and the Sea</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_SEA_NAME" >
+			<Text>Limsa Lominsa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_SEA_MAIN_DESCRIPTION" >
+			<Text>Cancel the debuff of the health value to the combat power, and +25% production when producing sea units.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_SEA_MAIN_NAME" >
+			<Text>Supreme commander</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FFXIV_2_SEA_MAIN_NAME" >
+			<Text>Merlwyb Bloefhiswyn</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_DESERT_CORE_DESCRIPTION" >
+			<Text>Immune to sandstorm damage, give oasis +2 gold +2 culture, and cities without a governor's inauguration +10% of all yields.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_DESERT_CORE_NAME" >
+			<Text>Desert and Capital of Wealth</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_DESERT_NAME" >
+			<Text>Ul'dah</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_DESERT_MAIN_DESCRIPTION" >
+			<Text>When the enemy spy is located in the territory of the city where he owns the governor, the action level is -1, and every luxury in the destination international city provides +2 culture + 2 gold for the trade route.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_DESERT_MAIN_NAME" >
+			<Text>Seventeenth King</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FFXIV_2_DESERT_MAIN_NAME" >
+			<Text>Nanamo Ul Namo</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_FOREST_ARMY_NAME" >
+			<Text>General</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_FOREST_ARMY_DESCRIPTION" >
+			<Text>All units ignore jungle and forest mobility and vision debuffs.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_FOREST_NAME" >
+			<Text>The Order of the Twin Adder</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_FOREST_DESCRIPTION" >
+			<Text>Replace the archer. Start an action in own city, +1 mobility + 10 combat power.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_FOREST_NAME" >
+			<Text>Magic Fruit Workshop</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_FOREST_DESCRIPTION" >
+			<Text>Alternative workshops. Consume less production, extra +3 faith value, +1 production, +1 culture, +1 housing.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_FOREST_NAME" >
+			<Text>Meditation Cave</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_FOREST_DESCRIPTION" >
+			<Text>Instead of holy site, it can only be built on the forest. The expert population provides 2 points of culture, +1 faith and food for each adjacent tree.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_FOREST_NAME" >
+			<Text>Forest logging plant</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_FOREST_DESCRIPTION" >
+			<Text>Can not be built next to each other, additional +2 faith, +2 production. +1 production for nearby rivers.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_DESERT_ARMY_NAME" >
+			<Text>Marshal</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_DESERT_ARMY_DESCRIPTION" >
+			<Text>The Golden Age provides 1 point of mobility, and the Dark Age +5 combat power.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_DESERT_NAME" >
+			<Text>The Immortal Flames</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_DESERT_DESCRIPTION" >
+			<Text>Instead of the swordsman, there is +5 combat power for every same unit nearby.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_DESERT_NAME" >
+			<Text>Ossuary</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_DESERT_DESCRIPTION" >
+			<Text>Alternative temple. Extra +4 gold and culture, giving two extra relics fields.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_DESERT_NAME" >
+			<Text>Arena</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_DESERT_DESCRIPTION" >
+			<Text>Alternative entertainment center. Provides 1 point of generals and 2 points of additional city defense. Each adjacent area + 2 culture + 2 gold.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_DESERT_NAME" >
+			<Text>Bazaar</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_DESERT_DESCRIPTION" >
+			<Text>Cannot be built next to each other, +2 gold, +1 culture, +1 production, and provide +10 defense for the unit.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_SEA_ARMY_NAME" >
+			<Text>Admiral</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_SEA_ARMY_DESCRIPTION" >
+			<Text>All units do not need corresponding technology to enter the ocean.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_SEA_NAME" >
+			<Text>The Maelstrom</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_SEA_DESCRIPTION" >
+			<Text>Instead of scouts, it has an extra +1 mobility and +10 combat power.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_SEA_NAME" >
+			<Text>International Plaza</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_SEA_DESCRIPTION" >
+			<Text>Alternative market. In addition, +2 culture, +1 great engineer, +1 great scientist.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_SEA_NAME" >
+			<Text>Customs</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_SEA_DESCRIPTION" >
+			<Text>Alternative harbor. The adjacent city center provides +4 gold for it. Each luxury item provides an additional livability for cities with customs. And provide defense and long-range attack power of the barracks.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_SEA_NAME" >
+			<Text>Brewery</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_SEA_DESCRIPTION" >
+			<Text>Cannot be built next to each other. Each different landform of the city is its +1 gold, +1 culture, and +1 production.</Text>
+		</Row>
+
+
+
+	</BaseGameText>
+</GameData>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- InGame_Icons -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 9/27/2021 9:15:25 PM -->
+<GameData>
+
+	<IconTextureAtlases>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_FIRE" IconSize="22" Filename="BELIEF_FFXIV_2_FIRE_22"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_FIRE" IconSize="50" Filename="BELIEF_FFXIV_2_FIRE_50"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_FIRE" IconSize="100" Filename="BELIEF_FFXIV_2_FIRE_100"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_LAND" IconSize="22" Filename="BELIEF_FFXIV_2_LAND_22"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_LAND" IconSize="50" Filename="BELIEF_FFXIV_2_LAND_50"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_LAND" IconSize="100" Filename="BELIEF_FFXIV_2_LAND_100"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_THUNDER" IconSize="22" Filename="BELIEF_FFXIV_2_THUNDER_22"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_THUNDER" IconSize="50" Filename="BELIEF_FFXIV_2_THUNDER_50"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_THUNDER" IconSize="100" Filename="BELIEF_FFXIV_2_THUNDER_100"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_WATER" IconSize="22" Filename="BELIEF_FFXIV_2_WATER_22"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_WATER" IconSize="50" Filename="BELIEF_FFXIV_2_WATER_50"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_WATER" IconSize="100" Filename="BELIEF_FFXIV_2_WATER_100"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_WIND" IconSize="22" Filename="BELIEF_FFXIV_2_WIND_22"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_WIND" IconSize="50" Filename="BELIEF_FFXIV_2_WIND_50"/>
+		<Row Name="ATLAS_BELIEF_FFXIV_2_WIND" IconSize="100" Filename="BELIEF_FFXIV_2_WIND_100"/>
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<Row Name="ICON_BELIEF_FFXIV_2_FIRE" Atlas="ATLAS_BELIEF_FFXIV_2_FIRE" Index="0"/>
+		<Row Name="ICON_BELIEF_FFXIV_2_WIND" Atlas="ATLAS_BELIEF_FFXIV_2_WIND" Index="0"/>
+		<Row Name="ICON_BELIEF_FFXIV_2_LAND" Atlas="ATLAS_BELIEF_FFXIV_2_LAND" Index="0"/>
+		<Row Name="ICON_BELIEF_FFXIV_2_THUNDER" Atlas="ATLAS_BELIEF_FFXIV_2_THUNDER" Index="0"/>
+		<Row Name="ICON_BELIEF_FFXIV_2_WATER" Atlas="ATLAS_BELIEF_FFXIV_2_WATER" Index="0"/>
+	</IconDefinitions>
+
+	<IconTextureAtlases>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_1" IconSize="22" Filename="RELIGION_FFXIV_2_1_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_1" IconSize="50" Filename="RELIGION_FFXIV_2_1_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_1" IconSize="100" Filename="RELIGION_FFXIV_2_1_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_2" IconSize="22" Filename="RELIGION_FFXIV_2_2_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_2" IconSize="50" Filename="RELIGION_FFXIV_2_2_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_2" IconSize="100" Filename="RELIGION_FFXIV_2_2_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_3" IconSize="22" Filename="RELIGION_FFXIV_2_3_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_3" IconSize="50" Filename="RELIGION_FFXIV_2_3_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_3" IconSize="100" Filename="RELIGION_FFXIV_2_3_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_4" IconSize="22" Filename="RELIGION_FFXIV_2_4_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_4" IconSize="50" Filename="RELIGION_FFXIV_2_4_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_4" IconSize="100" Filename="RELIGION_FFXIV_2_4_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_5" IconSize="22" Filename="RELIGION_FFXIV_2_5_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_5" IconSize="50" Filename="RELIGION_FFXIV_2_5_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_5" IconSize="100" Filename="RELIGION_FFXIV_2_5_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_6" IconSize="22" Filename="RELIGION_FFXIV_2_6_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_6" IconSize="50" Filename="RELIGION_FFXIV_2_6_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_6" IconSize="100" Filename="RELIGION_FFXIV_2_6_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_7" IconSize="22" Filename="RELIGION_FFXIV_2_7_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_7" IconSize="50" Filename="RELIGION_FFXIV_2_7_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_7" IconSize="100" Filename="RELIGION_FFXIV_2_7_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_8" IconSize="22" Filename="RELIGION_FFXIV_2_8_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_8" IconSize="50" Filename="RELIGION_FFXIV_2_8_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_8" IconSize="100" Filename="RELIGION_FFXIV_2_8_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_9" IconSize="22" Filename="RELIGION_FFXIV_2_9_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_9" IconSize="50" Filename="RELIGION_FFXIV_2_9_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_9" IconSize="100" Filename="RELIGION_FFXIV_2_9_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_10" IconSize="22" Filename="RELIGION_FFXIV_2_10_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_10" IconSize="50" Filename="RELIGION_FFXIV_2_10_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_10" IconSize="100" Filename="RELIGION_FFXIV_2_10_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_11" IconSize="22" Filename="RELIGION_FFXIV_2_11_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_11" IconSize="50" Filename="RELIGION_FFXIV_2_11_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_11" IconSize="100" Filename="RELIGION_FFXIV_2_11_100"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_12" IconSize="22" Filename="RELIGION_FFXIV_2_12_22"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_12" IconSize="50" Filename="RELIGION_FFXIV_2_12_50"/>
+		<Row Name="ATLAS_RELIGION_FFXIV_2_12" IconSize="100" Filename="RELIGION_FFXIV_2_12_100"/>
+		
+		
+	</IconTextureAtlases>
+
+	<IconDefinitions>
+		<Row Name="ICON_RELIGION_FFXIV_2_1" Atlas="ATLAS_RELIGION_FFXIV_2_1" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_2" Atlas="ATLAS_RELIGION_FFXIV_2_2" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_3" Atlas="ATLAS_RELIGION_FFXIV_2_3" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_4" Atlas="ATLAS_RELIGION_FFXIV_2_4" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_5" Atlas="ATLAS_RELIGION_FFXIV_2_5" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_6" Atlas="ATLAS_RELIGION_FFXIV_2_6" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_7" Atlas="ATLAS_RELIGION_FFXIV_2_7" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_8" Atlas="ATLAS_RELIGION_FFXIV_2_8" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_9" Atlas="ATLAS_RELIGION_FFXIV_2_9" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_10" Atlas="ATLAS_RELIGION_FFXIV_2_10" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_11" Atlas="ATLAS_RELIGION_FFXIV_2_11" Index="0"/>
+		<Row Name="ICON_RELIGION_FFXIV_2_12" Atlas="ATLAS_RELIGION_FFXIV_2_12" Index="0"/>
+		
+	</IconDefinitions>
+
+</GameData>

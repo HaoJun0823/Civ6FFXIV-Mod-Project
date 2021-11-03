@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Religion_Leader -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 11/2/2021 10:38:42 PM -->
+<GameData>
+	<FavoredReligions>
+		<Row LeaderType="LEADER_FFXIV_2_FOREST_MAIN" ReligionType="RELIGION_FFXIV_2_11"/>
+		<Row LeaderType="LEADER_FFXIV_2_SEA_MAIN" ReligionType="RELIGION_FFXIV_2_5"/>
+		<Row LeaderType="LEADER_FFXIV_2_DESERT_MAIN" ReligionType="RELIGION_FFXIV_2_10"/>
+	</FavoredReligions>
+</GameData>

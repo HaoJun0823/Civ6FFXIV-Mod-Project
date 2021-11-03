@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="FFXIV_2_UITexture_OLD"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_DESERT_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_DESERT_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_FOREST_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_FOREST_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_SEA_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_SEA_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

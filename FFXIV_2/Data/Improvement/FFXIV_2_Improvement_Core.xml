@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Improvement_Core -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 8:30:45 PM -->
+<GameData>
+	<Types>
+		<Row Type="IMPROVEMENT_FFXIV_2_FOREST" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_FFXIV_2_DESERT" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_FFXIV_2_SEA" Kind="KIND_IMPROVEMENT"/>
+
+		<Row Type="TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_SEA" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_DESERT" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_FOREST" Kind="KIND_TRAIT"/>
+
+	</Types>
+
+	<Improvements>
+
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_FOREST" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_FOREST" Name="LOC_IMPROVEMENT_FFXIV_2_FOREST_NAME" Description="LOC_IMPROVEMENT_FFXIV_2_FOREST_DESCRIPTION" Icon="ICON_IMPROVEMENT_FFXIV_2_FOREST" PlunderType="PLUNDER_GOLD" PlunderAmount="50" Buildable="true" SameAdjacentValid="false"/>
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_SEA" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_SEA" Name="LOC_IMPROVEMENT_FFXIV_2_SEA_NAME" Description="LOC_IMPROVEMENT_FFXIV_2_SEA_DESCRIPTION" Icon="ICON_IMPROVEMENT_FFXIV_2_SEA" PlunderType="PLUNDER_GOLD" PlunderAmount="50" Buildable="true" SameAdjacentValid="false"/>
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_DESERT" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_DESERT" Name="LOC_IMPROVEMENT_FFXIV_2_DESERT_NAME" Description="LOC_IMPROVEMENT_FFXIV_2_DESERT_DESCRIPTION" Icon="ICON_IMPROVEMENT_FFXIV_2_DESERT" PlunderType="PLUNDER_GOLD" PlunderAmount="50" Buildable="true" DefenseModifier="10" SameAdjacentValid="false"/>
+
+
+
+	</Improvements>
+
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_FOREST" Name="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_FOREST_NAME" Description="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_FOREST_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_SEA" Name="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_SEA_NAME" Description="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_SEA_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_DESERT" Name="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_DESERT_NAME" Description="LOC_TRAIT_CIVILIZATION_IMPROVEMENT_FFXIV_2_DESERT_DESCRIPTION"/>
+	</Traits>
+
+	<Improvement_ValidBuildUnits>
+
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_FOREST" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_SEA" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_DESERT" UnitType="UNIT_BUILDER"/>
+		
+		
+	</Improvement_ValidBuildUnits>
+
+	<Improvement_Adjacencies>
+
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_FOREST" YieldChangeId="FFXIV_FOREST_river"/>
+		
+	</Improvement_Adjacencies>
+
+	<Adjacency_YieldChanges>
+
+		<Row ID="FFXIV_FOREST_river" Description="Placeholder" YieldType="YIELD_PRODUCTION" YieldChange="1" TilesRequired="1" AdjacentRiver="true" />
+		
+		
+	</Adjacency_YieldChanges>
+
+	<Improvement_YieldChanges>
+
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_FOREST" YieldType="YIELD_PRODUCTION" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_FOREST" YieldType="YIELD_FAITH" YieldChange="2"/>
+
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_DESERT" YieldType="YIELD_GOLD" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_DESERT" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_DESERT" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		
+	</Improvement_YieldChanges>
+	
+</GameData>

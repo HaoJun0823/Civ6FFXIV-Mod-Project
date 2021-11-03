@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Unit_Core -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 9:04:26 PM -->
+<GameData>
+	<Types>
+		<Row Type="UNIT_FFXIV_2_DESERT" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_FFXIV_2_SEA" Kind="KIND_UNIT"/>
+		<Row Type="UNIT_FFXIV_2_FOREST" Kind="KIND_UNIT"/>
+
+		<Row Type="ABILITY_FFXIV_2_FOREST" Kind="KIND_ABILITY"/>
+		<!--<Row Type="ABILITY_FFXIV_2_SEA" Kind="KIND_ABILITY"/>-->
+		<Row Type="ABILITY_FFXIV_2_DESERT" Kind="KIND_ABILITY"/>
+
+		<Row Type="TRAIT_CIVILIZATION_FFXIV_2_FOREST_UNIT" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_FFXIV_2_SEA_UNIT" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_FFXIV_2_DESERT_UNIT" Kind="KIND_TRAIT"/>
+
+	</Types>
+
+	<TypeTags>
+
+		<Row Type="UNIT_FFXIV_2_FOREST" Tag="CLASS_RANGED"/>
+		<Row Type="UNIT_FFXIV_2_FOREST" Tag="CLASS_FFXIV_2_DESERT"/>
+		<Row Type="UNIT_FFXIV_2_DESERT" Tag="CLASS_MELEE"/>
+		<Row Type="UNIT_FFXIV_2_DESERT" Tag="CLASS_FFXIV_2_FOREST"/>
+		<Row Type="UNIT_FFXIV_2_SEA" Tag="CLASS_RECON"/>
+		<Row Type="UNIT_FFXIV_2_SEA" Tag="CLASS_REVEAL_STEALTH"/>
+
+		<Row Type="ABILITY_FFXIV_2_DESERT" Tag="CLASS_FFXIV_2_DESERT"/>
+		<!--<Row Type="ABILITY_FFXIV_2_SEA" Tag="CLASS_FFXIV_2_SEA"/>-->
+		<Row Type="ABILITY_FFXIV_2_FOREST" Tag="CLASS_FFXIV_2_FOREST"/>
+		
+	
+		
+	</TypeTags>
+
+	<UnitAbilities>
+
+		<Row UnitAbilityType="ABILITY_FFXIV_2_FOREST" Name="LOC_ABILITY_FFXIV_2_FOREST_NAME" Description="LOC_ABILITY_FFXIV_2_FOREST_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_FFXIV_2_DESERT" Name="LOC_ABILITY_FFXIV_2_DESERT_NAME" Description="LOC_ABILITY_FFXIV_2_DESERT_DESCRIPTION"/>
+		
+		
+	</UnitAbilities>
+
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_FFXIV_2_FOREST_UNIT" Name="LOC_UNIT_FFXIV_2_FOREST_NAME" Description="LOC_UNIT_FFXIV_2_FOREST_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_FFXIV_2_SEA_UNIT" Name="LOC_UNIT_FFXIV_2_SEA_NAME" Description="LOC_UNIT_FFXIV_2_SEA_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_FFXIV_2_DESERT_UNIT" Name="LOC_UNIT_FFXIV_2_DESERT_NAME" Description="LOC_UNIT_FFXIV_2_DESERT_DESCRIPTION"/>
+	</Traits>
+
+
+	<Tags>
+
+		<Row Tag="CLASS_FFXIV_2_DESERT" Vocabulary="ABILITY_CLASS"/>
+		<!--<Row Tag="CLASS_FFXIV_2_SEA" Vocabulary="ABILITY_CLASS"/>-->
+		<Row Tag="CLASS_FFXIV_2_FOREST" Vocabulary="ABILITY_CLASS"/>
+
+	</Tags>
+
+	<UnitReplaces>
+		<Row CivUniqueUnitType="UNIT_FFXIV_2_FOREST" ReplacesUnitType="UNIT_ARCHER"/>
+		<Row CivUniqueUnitType="UNIT_FFXIV_2_DESERT" ReplacesUnitType="UNIT_SWORDSMAN"/>
+		<Row CivUniqueUnitType="UNIT_FFXIV_2_SEA" ReplacesUnitType="UNIT_SCOUT"/>
+	</UnitReplaces>
+
+	<Units>
+
+		<Row UnitType="UNIT_FFXIV_2_SEA" TraitType="TRAIT_CIVILIZATION_FFXIV_2_SEA_UNIT" Cost="30" BaseMoves="4" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="20" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_RECON" AdvisorType="ADVISOR_GENERIC" Name="LOC_UNIT_FFXIV_2_SEA_NAME" Description="LOC_UNIT_FFXIV_2_SEA_DESCRIPTION" PurchaseYield="YIELD_GOLD" PseudoYieldType="PSEUDOYIELD_UNIT_EXPLORER"/>
+		<Row UnitType="UNIT_FFXIV_2_FOREST" TraitType="TRAIT_CIVILIZATION_FFXIV_2_FOREST_UNIT" Cost="60" Maintenance="1" BaseMoves="2" BaseSightRange="2" ZoneOfControl="false" Domain="DOMAIN_LAND" Combat="15" RangedCombat="25" Range="2" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_RANGED" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_FFXIV_2_FOREST_NAME" Description="LOC_UNIT_FFXIV_2_FOREST_DESCRIPTION" PurchaseYield="YIELD_GOLD" MandatoryObsoleteTech="TECH_BALLISTICS" PrereqTech="TECH_ARCHERY"/>
+		<Row UnitType="UNIT_FFXIV_2_DESERT" TraitType="TRAIT_CIVILIZATION_FFXIV_2_DESERT_UNIT" Cost="90" Maintenance="2" BaseMoves="2" BaseSightRange="2" ZoneOfControl="true" Domain="DOMAIN_LAND" Combat="35" StrategicResource="RESOURCE_IRON" FormationClass="FORMATION_CLASS_LAND_COMBAT" PromotionClass="PROMOTION_CLASS_MELEE" AdvisorType="ADVISOR_CONQUEST" Name="LOC_UNIT_FFXIV_2_DESERT_NAME" Description="LOC_UNIT_FFXIV_2_DESERT_DESCRIPTION" PurchaseYield="YIELD_GOLD" MandatoryObsoleteTech="TECH_REPLACEABLE_PARTS" PrereqTech="TECH_IRON_WORKING"/>		
+		
+	</Units>
+
+	<UnitUpgrades>
+		
+		<Row Unit="UNIT_FFXIV_2_SEA" UpgradeUnit="UNIT_RANGER"/>
+		<Row Unit="UNIT_FFXIV_2_FOREST" UpgradeUnit="UNIT_CROSSBOWMAN"/>
+		<Row Unit="UNIT_FFXIV_2_DESERT" UpgradeUnit="UNIT_MAN_AT_ARMS"/>
+		
+	</UnitUpgrades>
+	
+	
+</GameData>

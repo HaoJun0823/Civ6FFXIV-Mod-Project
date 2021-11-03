@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Leader_Civilization_Agenda_Adapter -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 9:38:11 PM -->
+<GameData>
+	
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_FFXIV_2_FOREST" LeaderType="LEADER_FFXIV_2_FOREST_MAIN" CapitalName="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_0"/>
+		<Row CivilizationType="CIVILIZATION_FFXIV_2_SEA" LeaderType="LEADER_FFXIV_2_SEA_MAIN" CapitalName="LOC_CITY_NAME_FFXIV_2_SEA_CITY_0"/>
+		<Row CivilizationType="CIVILIZATION_FFXIV_2_DESERT" LeaderType="LEADER_FFXIV_2_DESERT_MAIN" CapitalName="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_0"/>
+	</CivilizationLeaders>
+
+	<HistoricalAgendas>
+		<Row LeaderType="LEADER_FFXIV_2_FOREST_MAIN" AgendaType="AGENDA_FFXIV_2_FOREST_MAIN"/>
+		<Row LeaderType="LEADER_FFXIV_2_SEA_MAIN" AgendaType="AGENDA_FFXIV_2_SEA_MAIN"/>
+		<Row LeaderType="LEADER_FFXIV_2_DESERT_MAIN" AgendaType="AGENDA_FFXIV_2_DESERT_MAIN"/>
+	</HistoricalAgendas>
+	
+	<AgendaPreferredLeaders>
+		<Row AgendaType="AGENDA_ENVIRONMENTALIST" LeaderType="LEADER_FFXIV_2_FOREST_MAIN" PercentageChance="30"/>
+		<Row AgendaType="AGENDA_EXPLORER" LeaderType="LEADER_FFXIV_2_SEA_MAIN" PercentageChance="30"/>
+		<Row AgendaType="AGENDA_FUN_LOVING" LeaderType="LEADER_FFXIV_2_DESERT_MAIN" PercentageChance="30"/>
+
+	</AgendaPreferredLeaders>
+
+	<ExclusiveAgendas>
+		<!--
+		<Row AgendaOne="TRAIT_AGENDA_FFXIV_2_FOREST_MAIN" AgendaTwo="AGENDA_STANDING_ARMY"/>
+		<Row AgendaOne="TRAIT_AGENDA_FFXIV_2_SEA_MAIN" AgendaTwo="AGENDA_STANDING_ARMY"/>
+		<Row AgendaOne="TRAIT_AGENDA_FFXIV_2_DESERT_MAIN" AgendaTwo="AGENDA_STANDING_ARMY"/>
+		-->
+	</ExclusiveAgendas>
+
+</GameData>

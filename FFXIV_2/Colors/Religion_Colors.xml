@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Religion_Colors -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 11/3/2021 6:51:35 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_1</Type>
+			<Color>39,46,39,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_2</Type>
+			<Color>88,129,105,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_3</Type>
+			<Color>54,61,75,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_4</Type>
+			<Color>87,98,90,255</Color>			
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_5</Type>
+			<Color>90,97,74,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_6</Type>
+			<Color>147,150,97,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_7</Type>
+			<Color>101,81,102,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_8</Type>
+			<Color>126,88,95,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_9</Type>
+			<Color>118,77,79,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_10</Type>
+			<Color>93,51,50,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_11</Type>
+			<Color>160,132,75,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FFXIV_2_12</Type>
+			<Color>116,91,40,255</Color>
+		</Row>
+	</Colors>
+</GameData>

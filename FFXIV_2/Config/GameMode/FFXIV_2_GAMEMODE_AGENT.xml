@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_GAMEMODE_AGENT -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 9:03:36 PM -->
+<GameData>
+	<Parameters>
+		<Row Key1="Ruleset" Key2="RULESET_EXPANSION_2" ParameterId="GameMode_FFXIV_2_Agent" Name="LOC_GAMEMODE_FFXIV_2_AGENT_NAME" Description="LOC_GAMEMODE_FFXIV_2_AGENT_DESCRIPTION" Domain="bool" DefaultValue="0" ConfigurationGroup="Game" ConfigurationId="GAMEMODE_FFXIV_2_AGENT" NameArrayConfigurationId="GAMEMODES_ENABLED_NAMES" GroupId="GameModes" SortIndex="200"/>
+	</Parameters>
+</GameData>

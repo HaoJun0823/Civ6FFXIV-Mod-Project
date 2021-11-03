@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_TAG -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 11/3/2021 8:25:32 PM -->
+<GameData>
+
+	<BaseGameText>
+
+		<Row Tag="LOC_FFXIV_2_NOT_DONE">
+			<Text>(Undone! Please wait for the next update!)</Text>
+		</Row>
+
+	</BaseGameText>
+
+
+	<LocalizedText>
+
+		<Row Tag="LOC_FFXIV_2_NOT_DONE" Language="zh_Hans_CN">
+			<Text>倾听 感受 思考（未实现！请等待下次更新！）</Text>
+		</Row>
+		
+		
+	</LocalizedText>
+
+</GameData>

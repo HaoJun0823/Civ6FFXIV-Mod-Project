@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="FFXIV_2_FLAG"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_128"/>
+			<m_ObjectName text="DESERT_FLAG_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_200"/>
+			<m_ObjectName text="DESERT_FLAG_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_22"/>
+			<m_ObjectName text="DESERT_FLAG_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_256"/>
+			<m_ObjectName text="DESERT_FLAG_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_30"/>
+			<m_ObjectName text="DESERT_FLAG_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_32"/>
+			<m_ObjectName text="DESERT_FLAG_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_36"/>
+			<m_ObjectName text="DESERT_FLAG_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_44"/>
+			<m_ObjectName text="DESERT_FLAG_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_45"/>
+			<m_ObjectName text="DESERT_FLAG_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_48"/>
+			<m_ObjectName text="DESERT_FLAG_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_50"/>
+			<m_ObjectName text="DESERT_FLAG_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_64"/>
+			<m_ObjectName text="DESERT_FLAG_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="DESERT_FLAG_80"/>
+			<m_ObjectName text="DESERT_FLAG_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_128"/>
+			<m_ObjectName text="FOREST_FLAG_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_200"/>
+			<m_ObjectName text="FOREST_FLAG_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_22"/>
+			<m_ObjectName text="FOREST_FLAG_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_256"/>
+			<m_ObjectName text="FOREST_FLAG_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_30"/>
+			<m_ObjectName text="FOREST_FLAG_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_32"/>
+			<m_ObjectName text="FOREST_FLAG_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_36"/>
+			<m_ObjectName text="FOREST_FLAG_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_44"/>
+			<m_ObjectName text="FOREST_FLAG_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_45"/>
+			<m_ObjectName text="FOREST_FLAG_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_48"/>
+			<m_ObjectName text="FOREST_FLAG_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_50"/>
+			<m_ObjectName text="FOREST_FLAG_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_64"/>
+			<m_ObjectName text="FOREST_FLAG_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FOREST_FLAG_80"/>
+			<m_ObjectName text="FOREST_FLAG_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_128"/>
+			<m_ObjectName text="SEA_FLAG_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_200"/>
+			<m_ObjectName text="SEA_FLAG_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_22"/>
+			<m_ObjectName text="SEA_FLAG_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_256"/>
+			<m_ObjectName text="SEA_FLAG_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_30"/>
+			<m_ObjectName text="SEA_FLAG_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_32"/>
+			<m_ObjectName text="SEA_FLAG_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_36"/>
+			<m_ObjectName text="SEA_FLAG_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_44"/>
+			<m_ObjectName text="SEA_FLAG_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_45"/>
+			<m_ObjectName text="SEA_FLAG_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_48"/>
+			<m_ObjectName text="SEA_FLAG_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_50"/>
+			<m_ObjectName text="SEA_FLAG_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_64"/>
+			<m_ObjectName text="SEA_FLAG_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="SEA_FLAG_80"/>
+			<m_ObjectName text="SEA_FLAG_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

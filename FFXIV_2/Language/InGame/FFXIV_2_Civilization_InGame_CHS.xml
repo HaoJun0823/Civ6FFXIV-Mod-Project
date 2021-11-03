@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Civilization_CHS -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 8:12:58 PM -->
+<GameData>
+
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_FOREST_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>森林之都</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_SEA_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>海洋之都</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_DESERT_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>沙漠之都</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_1" Language="zh_Hans_CN">
+			<Text>弯枝牧场</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_2" Language="zh_Hans_CN">
+			<Text>烤饼练兵所</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_3" Language="zh_Hans_CN">
+			<Text>静语庄园</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_4" Language="zh_Hans_CN">
+			<Text>霍桑山寨</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_5" Language="zh_Hans_CN">
+			<Text>石场水车</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_6" Language="zh_Hans_CN">
+			<Text>恬静路营地</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_7" Language="zh_Hans_CN">
+			<Text>秋瓜浮村</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_8" Language="zh_Hans_CN">
+			<Text>和平苑</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_9" Language="zh_Hans_CN">
+			<Text>薰衣草苗圃</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_10" Language="zh_Hans_CN">
+			<Text>空居</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_11" Language="zh_Hans_CN">
+			<Text>无限城古堡</Text>
+		</Row>		
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_1" Language="zh_Hans_CN">
+			<Text>盛夏农庄</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_2" Language="zh_Hans_CN">
+			<Text>赤血雄鸡农场</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_3" Language="zh_Hans_CN">
+			<Text>莫拉比造船厂</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_4" Language="zh_Hans_CN">
+			<Text>葡萄酒港</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_5" Language="zh_Hans_CN">
+			<Text>太阳海岸</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_6" Language="zh_Hans_CN">
+			<Text>小麦酒港</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_7" Language="zh_Hans_CN">
+			<Text>雨燕塔殖民地</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_8" Language="zh_Hans_CN">
+			<Text>石绿湖营地</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_9" Language="zh_Hans_CN">
+			<Text>瞭望阵营地</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_10" Language="zh_Hans_CN">
+			<Text>海雾村</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_11" Language="zh_Hans_CN">
+			<Text>守炬埠头</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_1" Language="zh_Hans_CN">
+			<Text>金锤台地</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_2" Language="zh_Hans_CN">
+			<Text>地平关</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_3" Language="zh_Hans_CN">
+			<Text>黑尘驿站</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_4" Language="zh_Hans_CN">
+			<Text>枯骨营地</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_5" Language="zh_Hans_CN">
+			<Text>小阿拉米格</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_6" Language="zh_Hans_CN">
+			<Text>遗忘绿洲</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_7" Language="zh_Hans_CN">
+			<Text>蓝雾营地</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_8" Language="zh_Hans_CN">
+			<Text>白银集市</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_9" Language="zh_Hans_CN">
+			<Text>黄金集市</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_10" Language="zh_Hans_CN">
+			<Text>高脚孤丘</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_11" Language="zh_Hans_CN">
+			<Text>金蝶游乐场</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_MALE_1" Language="zh_Hans_CN">
+			<Text>阿·卢恩·神纳</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_FEMALE_1" Language="zh_Hans_CN">
+			<Text>拉雅·奥·神纳</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_MALE_2" Language="zh_Hans_CN">
+			<Text>艾·斯密·雅恩</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_FEMALE_2" Language="zh_Hans_CN">
+			<Text>吕西安娜·科恩</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_MALE_3" Language="zh_Hans_CN">
+			<Text>伊维因·迪普维尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_FEMALE_3" Language="zh_Hans_CN">
+			<Text>缪恩</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_MALE_1" Language="zh_Hans_CN">
+			<Text>巴德龙</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_FEMALE_1" Language="zh_Hans_CN">
+			<Text>图比尔盖姆</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_MALE_2" Language="zh_Hans_CN">
+			<Text>贾可</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_FEMALE_2" Language="zh_Hans_CN">
+			<Text>佩·塔嘉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_MALE_3" Language="zh_Hans_CN">
+			<Text>威尔恩兹恩·塞尔斯敏德辛</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_FEMALE_3" Language="zh_Hans_CN">
+			<Text>克·莉霞</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_MALE_1" Language="zh_Hans_CN">
+			<Text>罗罗力特</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_FEMALE_1" Language="zh_Hans_CN">
+			<Text>杜菈菈</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_MALE_2" Language="zh_Hans_CN">
+			<Text>戈德伯特·曼德维尔</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_FEMALE_2" Language="zh_Hans_CN">
+			<Text>密拉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_MALE_3" Language="zh_Hans_CN">
+			<Text>泰勒吉·阿代勒吉</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_FEMALE_3" Language="zh_Hans_CN">
+			<Text>莫莫蒂·莫蒂</Text>
+		</Row>
+	</LocalizedText>	
+
+</GameData>

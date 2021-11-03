@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Belief_Core -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 8:30:29 PM -->
+<GameData>
+	<Types>
+		<Row Type="BELIEF_FFXIV_2_FIRE" Kind="KIND_BELIEF"/>
+		<Row Type="BELIEF_FFXIV_2_WIND" Kind="KIND_BELIEF"/>
+		<Row Type="BELIEF_FFXIV_2_LAND" Kind="KIND_BELIEF"/>
+		<Row Type="BELIEF_FFXIV_2_THUNDER" Kind="KIND_BELIEF"/>
+		<Row Type="BELIEF_FFXIV_2_WATER" Kind="KIND_BELIEF"/>
+	</Types>
+	<Beliefs>
+
+		<Row BeliefType="BELIEF_FFXIV_2_FIRE" Name="LOC_BELIEF_FFXIV_2_FIRE_NAME" Description="LOC_BELIEF_FFXIV_2_FIRE_DESCRIPTION" BeliefClassType="BELIEF_CLASS_PANTHEON"/>
+		<Row BeliefType="BELIEF_FFXIV_2_WIND" Name="LOC_BELIEF_FFXIV_2_WIND_NAME" Description="LOC_BELIEF_FFXIV_2_WIND_DESCRIPTION" BeliefClassType="BELIEF_CLASS_PANTHEON"/>
+		<Row BeliefType="BELIEF_FFXIV_2_LAND" Name="LOC_BELIEF_FFXIV_2_LAND_NAME" Description="LOC_BELIEF_FFXIV_2_LAND_DESCRIPTION" BeliefClassType="BELIEF_CLASS_PANTHEON"/>
+		<Row BeliefType="BELIEF_FFXIV_2_THUNDER" Name="LOC_BELIEF_FFXIV_2_THUNDER_NAME" Description="LOC_BELIEF_FFXIV_2_THUNDER_DESCRIPTION" BeliefClassType="BELIEF_CLASS_PANTHEON"/>
+		<Row BeliefType="BELIEF_FFXIV_2_WATER" Name="LOC_BELIEF_FFXIV_2_WATER_NAME" Description="LOC_BELIEF_FFXIV_2_WATER_DESCRIPTION" BeliefClassType="BELIEF_CLASS_PANTHEON"/>
+		
+	</Beliefs>
+	<!--<BeliefModifiers>
+		<Row BeliefType="BELIEF_FFXIV_2_FIRE">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_FIRE</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_WIND">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_WIND</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_LAND">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_LAND</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_THUNDER">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_THUNER</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_WATER">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_WATER</ModifierId>
+		</Row>
+	</BeliefModifiers>-->
+	<BeliefModifiers>
+		<Row BeliefType="BELIEF_FFXIV_2_FIRE">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_WIND">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_LAND">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_THUNDER">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_WATER">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE</ModifierId>
+		</Row>
+	</BeliefModifiers>
+	<BeliefModifiers>
+		<Row BeliefType="BELIEF_FFXIV_2_FIRE">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_WIND">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_LAND">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_THUNDER">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE</ModifierId>
+		</Row>
+		<Row BeliefType="BELIEF_FFXIV_2_WATER">
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE</ModifierId>
+		</Row>
+	</BeliefModifiers>
+</GameData>

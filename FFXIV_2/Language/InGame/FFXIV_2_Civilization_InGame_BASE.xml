@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Civilization_InGame_BASE -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 8:12:40 PM -->
+<GameData>
+
+	<BaseGameText>
+
+
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_0">
+			<Text>{LOC_CIVILIZATION_FFXIV_2_FOREST_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_0">
+			<Text>{LOC_CIVILIZATION_FFXIV_2_SEA_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_0">
+			<Text>{LOC_CIVILIZATION_FFXIV_2_DESERT_NAME}</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_FOREST_DESCRIPTION">
+			<Text>{LOC_CIVILIZATION_FFXIV_2_FOREST_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_SEA_DESCRIPTION">
+			<Text>{LOC_CIVILIZATION_FFXIV_2_SEA_NAME}</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_DESERT_DESCRIPTION">
+			<Text>{LOC_CIVILIZATION_FFXIV_2_DESERT_NAME}</Text>
+		</Row>		
+
+	</BaseGameText>
+
+	<BaseGameText>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_FOREST_ADJECTIVE" >
+			<Text>Forest Capital</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_SEA_ADJECTIVE" >
+			<Text>Ocean Capital</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_DESERT_ADJECTIVE" >
+			<Text>Desert Capital</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_1" >
+			<Text>Bentbranch Meadows</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_2" >
+			<Text>The Bannock</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_3" >
+			<Text>Haukke Manor</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_4" >
+			<Text>The Hawthorne Hut</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_5" >
+			<Text>Quarrymill</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_6" >
+			<Text>Camp Tranquil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_7" >
+			<Text>Fallgourd Float</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_8" >
+			<Text>Peacegarden</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_9" >
+			<Text>Lavender Beds</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_10" >
+			<Text>Issom_Har</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_FOREST_CITY_11" >
+			<Text>Amdapor keep</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_1" >
+			<Text>Summerford Farms</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_2" >
+			<Text>Red Rooster Stead</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_3" >
+			<Text>Moraby Drydocks</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_4" >
+			<Text>Wineport</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_5" >
+			<Text>Costa del Sol</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_6" >
+			<Text>Aleport</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_7" >
+			<Text>Swiftperch</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_8" >
+			<Text>Camp Bronze Lake</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_9" >
+			<Text>Camp Overlook</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_10" >
+			<Text>Mist</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_SEA_CITY_11" >
+			<Text>Candlekeep Quay</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_1" >
+			<Text>Hammerlea</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_2" >
+			<Text>Horizon</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_3" >
+			<Text>Black Brush Station</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_4" >
+			<Text>Camp Drybone</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_5" >
+			<Text>Little Ala Mhigo</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_6" >
+			<Text>Forgotten Springs</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_7" >
+			<Text>Camp Bluefog</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_8" >
+			<Text>The Silver Bazaar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_9" >
+			<Text>The Golden Bazaar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_10" >
+			<Text>The Goblet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FFXIV_2_DESERT_CITY_11" >
+			<Text>The Gold Saucer</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_MALE_1" >
+			<Text>A-Ruhn-Senna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_FEMALE_1" >
+			<Text>Raya-O-Senna</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_MALE_2" >
+			<Text>E-Sumi-Yan</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_FEMALE_2" >
+			<Text>Luciane Corne</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_MALE_3" >
+			<Text>Ywain Deepwell</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_FOREST_NPC_FEMALE_3" >
+			<Text>Miounne</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_MALE_1" >
+			<Text>Baderon</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_FEMALE_1" >
+			<Text>Thubyrgeim</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_MALE_2" >
+			<Text>Jacke</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_FEMALE_2" >
+			<Text>P'tahjha Stah</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_MALE_3" >
+			<Text>Wyrnzoen Saelsmyndsyn</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_SEA_NPC_FEMALE_3" >
+			<Text>K'lyhia</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_MALE_1" >
+			<Text>Lolorito</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_FEMALE_1" >
+			<Text>Dewlala</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_MALE_2" >
+			<Text>Godbert Manderville</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_FEMALE_2" >
+			<Text>Mylla</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_MALE_3" >
+			<Text>Teledji Adeledji</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_NAME_FFXIV_2_DESERT_NPC_FEMALE_3" >
+			<Text>Momodi-Modi</Text>
+		</Row>
+	</BaseGameText>
+
+
+
+</GameData>

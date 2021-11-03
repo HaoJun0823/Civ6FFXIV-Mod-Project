@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Core_InGame_CHS -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 10:46:06 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_BELIEF_FFXIV_2_FIRE_NAME" Language="zh_Hans_CN">
+			<Text>伊弗利特</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_FIRE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>升级单位无需战略资源，城市每个区域+2住房。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_WIND_NAME" Language="zh_Hans_CN">
+			<Text>迦楼罗</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_WIND_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>移除地貌获得的产出+50%，所有单位+1移动力。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_LAND_NAME" Language="zh_Hans_CN">
+			<Text>泰坦</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_LAND_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>矿山及采石场+2生产力，处于黄金时代时该效果翻倍。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_THUNDER_NAME" Language="zh_Hans_CN">
+			<Text>拉姆</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_THUNDER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>购买单元格便宜50%，随着时代的进步，新奇观会获得额外的生产力加成，最低10%，最高80%。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_WATER_NAME" Language="zh_Hans_CN">
+			<Text>利维亚桑</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_WATER_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>海洋+1生产力，深海+3信仰，在海洋战斗时单位可根据75%战斗力恢复生命值。[NEWLINE][COLOR_FLOAT_PRODUCTION]信仰蛮神-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+		</Row>
+	</LocalizedText>
+	<LocalizedText>
+		<Row Tag="LOC_RELIGION_FFXIV_2_1" Language="zh_Hans_CN">
+			<Text>哈罗妮</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_2" Language="zh_Hans_CN">
+			<Text>梅茵菲娜</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_3" Language="zh_Hans_CN">
+			<Text>沙利亚克</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_4" Language="zh_Hans_CN">
+			<Text>妮美雅</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_5" Language="zh_Hans_CN">
+			<Text>利姆莱茵</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_6" Language="zh_Hans_CN">
+			<Text>奥修昂</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_7" Language="zh_Hans_CN">
+			<Text>比尔格</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_8" Language="zh_Hans_CN">
+			<Text>拉尔戈</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_9" Language="zh_Hans_CN">
+			<Text>阿泽玛</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_10" Language="zh_Hans_CN">
+			<Text>纳尔札尔</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_11" Language="zh_Hans_CN">
+			<Text>诺菲卡</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_12" Language="zh_Hans_CN">
+			<Text>阿尔基克</Text>
+		</Row>
+	</LocalizedText>
+
+	
+</GameData>

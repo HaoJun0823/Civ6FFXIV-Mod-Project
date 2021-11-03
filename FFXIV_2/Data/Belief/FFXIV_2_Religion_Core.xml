@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Religion_Core -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 10:56:33 PM -->
+<GameData>
+	<Types>
+		<Row Type="RELIGION_FFXIV_2_1" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_2" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_3" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_4" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_5" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_6" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_7" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_8" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_9" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_10" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_11" Kind="KIND_RELIGION"/>
+		<Row Type="RELIGION_FFXIV_2_12" Kind="KIND_RELIGION"/>
+	</Types>
+	<Religions>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_1</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_1</Name>
+			<IconString>Ha</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_1</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_2</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_2</Name>
+			<IconString>Me</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_2</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_3</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_3</Name>
+			<IconString>Th</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_3</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_4</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_4</Name>
+			<IconString>Ny</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_4</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_5</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_5</Name>
+			<IconString>Ly</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_5</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_6</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_6</Name>
+			<IconString>Os</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_6</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_7</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_7</Name>
+			<IconString>By</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_7</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_8</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_8</Name>
+			<IconString>Rh</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_8</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_9</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_9</Name>
+			<IconString>Az</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_9</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_10</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_10</Name>
+			<IconString>Na</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_10</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_11</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_11</Name>
+			<IconString>No</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_11</Color>
+		</Row>
+		<Row>
+			<ReligionType>RELIGION_FFXIV_2_12</ReligionType>
+			<Name>LOC_RELIGION_FFXIV_2_12</Name>
+			<IconString>Al</IconString>
+			<RequiresCustomName>false</RequiresCustomName>
+			<Color>COLOR_RELIGION_FFXIV_2_12</Color>
+		</Row>
+	</Religions>
+</GameData>

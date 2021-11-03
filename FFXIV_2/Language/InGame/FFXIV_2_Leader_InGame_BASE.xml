@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Leader_InGame_BASE -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 10:45:26 PM -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_AGENDA_FFXIV_2_FOREST_MAIN_NAME" >
+			<Text>Seedseer Council</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FFXIV_2_FOREST_MAIN_DESCRIPTION" >
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FFXIV_2_SEA_MAIN_NAME" >
+			<Text>The Galadion Accord</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FFXIV_2_SEA_MAIN_DESCRIPTION" >
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FFXIV_2_DESERT_MAIN_NAME" >
+			<Text>The Syndicate</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FFXIV_2_DESERT_MAIN_DESCRIPTION" >
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+
+
+		<Row Tag="LOC_LEADER_FFXIV_2_FOREST_MAIN_MEETING" >
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FFXIV_2_SEA_MAIN_MEETING" >
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FFXIV_2_DESERT_MAIN_MEETING" >
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_FFXIV_2_FOREST_MAIN" >
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_FFXIV_2_SEA_MAIN" >
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_FFXIV_2_DESERT_MAIN" >
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+
+	</BaseGameText>
+</GameData>

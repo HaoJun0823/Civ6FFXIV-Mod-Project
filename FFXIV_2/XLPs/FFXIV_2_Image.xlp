@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="FFXIV_2_Image"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="01_FOREST_CITY"/>
+			<m_ObjectName text="01_FOREST_CITY"/>
+		</Element>
+		<Element>
+			<m_EntryID text="02_SEA_CITY"/>
+			<m_ObjectName text="02_SEA_CITY"/>
+		</Element>
+		<Element>
+			<m_EntryID text="03_DESERT_CITY"/>
+			<m_ObjectName text="03_DESERT_CITY"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DESERT_MAIN_SELECT"/>
+			<m_ObjectName text="LEADER_DESERT_MAIN_SELECT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FOREST_MAIN_SELECT"/>
+			<m_ObjectName text="LEADER_FOREST_MAIN_SELECT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SEA_MAIN_SELECT"/>
+			<m_ObjectName text="LEADER_SEA_MAIN_SELECT"/>
+		</Element>
+		<Element>
+			<m_EntryID text="01_S"/>
+			<m_ObjectName text="01_S"/>
+		</Element>
+		<Element>
+			<m_EntryID text="02_S"/>
+			<m_ObjectName text="02_S"/>
+		</Element>
+		<Element>
+			<m_EntryID text="03_S"/>
+			<m_ObjectName text="03_S"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DESERT_MAIN_LOADING"/>
+			<m_ObjectName text="LEADER_DESERT_MAIN_LOADING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_FOREST_MAIN_LOADING"/>
+			<m_ObjectName text="LEADER_FOREST_MAIN_LOADING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_SEA_MAIN_LOADING"/>
+			<m_ObjectName text="LEADER_SEA_MAIN_LOADING"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

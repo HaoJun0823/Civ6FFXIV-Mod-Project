@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Core_InGame_BASE -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 10:45:56 PM -->
+<GameData>
+	<BaseGameText>
+		<Row Tag="LOC_RELIGION_FFXIV_2_1" >
+			<Text>Halone</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_2" >
+			<Text>Menphina</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_3" >
+			<Text>Thaliak</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_4" >
+			<Text>Nymeia</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_5" >
+			<Text>Llymlaen</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_6" >
+			<Text>Oschon</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_7" >
+			<Text>Byregot</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_8" >
+			<Text>Rhalgr</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_9" >
+			<Text>Azeyma</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_10" >
+			<Text>Nald'thal</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_11" >
+			<Text>Nophica</Text>
+		</Row>
+		<Row Tag="LOC_RELIGION_FFXIV_2_12" >
+			<Text>Althyk</Text>
+		</Row>
+	</BaseGameText>
+
+	<BaseGameText>
+		<Row Tag="LOC_BELIEF_FFXIV_2_FIRE_NAME" >
+			<Text>Ifrit</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_FIRE_DESCRIPTION" >
+			<Text>Upgraded units do not require strategic resources, +2 housing in each area of the city.[NEWLINE][COLOR_FLOAT_PRODUCTION]Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_WIND_NAME" >
+			<Text>Garuda</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_WIND_DESCRIPTION" >
+			<Text>Gained by harvesting resources is +50%, and all units have +1 movement.[NEWLINE][COLOR_FLOAT_PRODUCTION]Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_LAND_NAME" >
+			<Text>Titan</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_LAND_DESCRIPTION" >
+			<Text>+2 [ICON_PRODUCTION] in mines and quarries, this effect doubles in the golden age.[NEWLINE][COLOR_FLOAT_PRODUCTION]Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_THUNDER_NAME" >
+			<Text>Ramuh</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_THUNDER_DESCRIPTION" >
+			<Text>Buying plot is 50% cheaper. As the times progress, New Wonders will receive additional.[ICON_PRODUCTION] bonuses, with a minimum of 10% and a maximum of 80%.[NEWLINE][COLOR_FLOAT_PRODUCTION]Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_WATER_NAME" >
+			<Text>Leviathan</Text>
+		</Row>
+		<Row Tag="LOC_BELIEF_FFXIV_2_WATER_DESCRIPTION" >
+			<Text>Coast +1 [ICON_PRODUCTION], ocean +3 [ICON_FAITH], when fighting in the coast, units can restore their health based on 75% of their combat power.[NEWLINE][COLOR_FLOAT_PRODUCTION]Believe in this-10%[ICON_CULTURE][ICON_SCIENCE][ENDCOLOR]。</Text>
+		</Row>
+	</BaseGameText>
+
+</GameData>

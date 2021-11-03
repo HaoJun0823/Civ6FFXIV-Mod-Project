@@ -1,0 +1,121 @@
+-- FFXIV_2_Civilization_Core_Forest
+-- Author: HaoJun0823
+-- DateCreated: 10/27/2021 11:51:07 PM
+--------------------------------------------------------------
+
+INSERT INTO TraitModifiers (TraitType, ModifierId) VALUES 
+('TRAIT_CIVILIZATION_FFXIV_2_FOREST_CORE', 'MODIFIER_FFXIV_2_CANNOT_PICK_FOREST');
+
+INSERT INTO Modifiers (ModifierId, ModifierType, RunOnce, Permanent, NewOnly, OwnerRequirementSetId, SubjectRequirementSetId) VALUES 
+('MODIFIER_FFXIV_2_CANNOT_PICK_FOREST', 'MODIFIER_PLAYER_ADJUST_PREVENT_HARVEST_RESOURCE', 0, 0, 0, NULL, NULL);
+
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES 
+('MODIFIER_FFXIV_2_CANNOT_PICK_FOREST', 'Enable', 'True');
+
+
+
+INSERT INTO TraitModifiers (TraitType, ModifierId) VALUES 
+('TRAIT_CIVILIZATION_FFXIV_2_FOREST_CORE', 'MODIFIER_FFXIV_2_FOREST_JUNGLE_FOOD');
+
+INSERT INTO Modifiers (ModifierId, ModifierType, RunOnce, Permanent, NewOnly, OwnerRequirementSetId, SubjectRequirementSetId) VALUES 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_FOOD', 'MODIFIER_PLAYER_ADJUST_PLOT_YIELD', 0, 0, 0, NULL, 'REQSET_FFXIV_2_FOREST_OR_JUNGLE');
+
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_FOOD', 'Amount', '1'), 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_FOOD', 'YieldType', 'YIELD_FOOD');
+
+INSERT INTO TraitModifiers (TraitType, ModifierId) VALUES 
+('TRAIT_CIVILIZATION_FFXIV_2_FOREST_CORE', 'MODIFIER_FFXIV_2_FOREST_JUNGLE_FAITH');
+
+INSERT INTO Modifiers (ModifierId, ModifierType, RunOnce, Permanent, NewOnly, OwnerRequirementSetId, SubjectRequirementSetId) VALUES 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_FAITH', 'MODIFIER_PLAYER_ADJUST_PLOT_YIELD', 0, 0, 0, NULL, 'REQSET_FFXIV_2_FOREST_OR_JUNGLE');
+
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_FAITH', 'Amount', '2'), 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_FAITH', 'YieldType', 'YIELD_FAITH');
+
+-- RequirementSets
+
+INSERT INTO RequirementSets (RequirementSetId, RequirementSetType) VALUES 
+('REQSET_FFXIV_2_FOREST_OR_JUNGLE', 'REQUIREMENTSET_TEST_ANY');
+
+INSERT INTO RequirementSetRequirements (RequirementSetId, RequirementId) VALUES 
+('REQSET_FFXIV_2_FOREST_OR_JUNGLE', 'REQ_FFXIV_2_FOREST'), 
+('REQSET_FFXIV_2_FOREST_OR_JUNGLE', 'REQ_FFXIV_2_JUNGLE');
+
+-- Requirements
+
+INSERT INTO Requirements (RequirementId, RequirementType) VALUES 
+('REQ_FFXIV_2_FOREST', 'REQUIREMENT_PLOT_FEATURE_TYPE_MATCHES'), 
+('REQ_FFXIV_2_JUNGLE', 'REQUIREMENT_PLOT_FEATURE_TYPE_MATCHES');
+
+INSERT INTO RequirementArguments (RequirementId, Name, Value) VALUES 
+('REQ_FFXIV_2_FOREST', 'FeatureType', 'FEATURE_FOREST'), 
+('REQ_FFXIV_2_JUNGLE', 'FeatureType', 'FEATURE_JUNGLE');
+
+
+
+
+
+INSERT INTO TraitModifiers (TraitType, ModifierId) VALUES 
+('TRAIT_CIVILIZATION_FFXIV_2_FOREST_CORE', 'MODIFIER_FFXIV_2_FOREST_JUNGLE_PRODUCTION_ATTACH');
+
+INSERT INTO Modifiers (ModifierId, ModifierType, RunOnce, Permanent, NewOnly, OwnerRequirementSetId, SubjectRequirementSetId) VALUES 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_PRODUCTION_ATTACH', 'MODIFIER_PLAYER_CITIES_ATTACH_MODIFIER', 0, 0, 0, 'REQSET_REQ_CITY_HAS_BUILDING_WATER_MILL', NULL);
+
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_PRODUCTION_ATTACH', 'ModifierId', 'MODIFIER_FFXIV_2_FOREST_JUNGLE_PRODUCTION');
+
+-- RequirementSets
+
+INSERT INTO RequirementSets (RequirementSetId, RequirementSetType) VALUES 
+('REQSET_REQ_CITY_HAS_BUILDING_WATER_MILL', 'REQUIREMENTSET_TEST_ALL');
+
+INSERT INTO RequirementSetRequirements (RequirementSetId, RequirementId) VALUES 
+('REQSET_REQ_CITY_HAS_BUILDING_WATER_MILL', 'REQ_CITY_HAS_BUILDING_WATER_MILL');
+
+-- Requirements
+
+INSERT INTO Requirements (RequirementId, RequirementType) VALUES 
+('REQ_CITY_HAS_BUILDING_WATER_MILL', 'REQUIREMENT_CITY_HAS_BUILDING');
+
+INSERT INTO RequirementArguments (RequirementId, Name, Value) VALUES 
+('REQ_CITY_HAS_BUILDING_WATER_MILL', 'BuildingType', 'BUILDING_WATER_MILL');
+
+
+
+
+
+INSERT INTO Modifiers (ModifierId, ModifierType, RunOnce, Permanent, NewOnly, OwnerRequirementSetId, SubjectRequirementSetId) VALUES 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_PRODUCTION', 'MODIFIER_CITY_PLOT_YIELDS_ADJUST_PLOT_YIELD', 0, 0, 0, NULL, 'REQSET_FFXIV_2_PLOT_IS_FRESH_WATER');
+
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_PRODUCTION', 'Amount', '1'), 
+('MODIFIER_FFXIV_2_FOREST_JUNGLE_PRODUCTION', 'YieldType', 'YIELD_PRODUCTION');
+
+-- RequirementSets
+
+INSERT INTO RequirementSets (RequirementSetId, RequirementSetType) VALUES 
+('REQSET_FFXIV_2_PLOT_IS_FRESH_WATER', 'REQUIREMENTSET_TEST_ANY');
+
+INSERT INTO RequirementSetRequirements (RequirementSetId, RequirementId) VALUES 
+('REQSET_FFXIV_2_PLOT_IS_FRESH_WATER', 'REQ_FFXIV_2_PLOT_IS_FRESH_WATER');
+
+-- Requirements
+
+INSERT INTO Requirements (RequirementId, RequirementType) VALUES 
+('REQ_FFXIV_2_PLOT_IS_FRESH_WATER', 'REQUIREMENT_PLOT_IS_FRESH_WATER');
+
+
+
+
+INSERT INTO TraitModifiers (TraitType, ModifierId) VALUES 
+('TRAIT_CIVILIZATION_FFXIV_2_FOREST_CORE', 'MODIFIER_FFXIV_2_WATER_MILL_CULTURE');
+
+INSERT INTO Modifiers (ModifierId, ModifierType, RunOnce, Permanent, NewOnly, OwnerRequirementSetId, SubjectRequirementSetId) VALUES 
+('MODIFIER_FFXIV_2_WATER_MILL_CULTURE', 'MODIFIER_PLAYER_CITIES_ADJUST_BUILDING_YIELD_MODIFIER', 0, 0, 0, NULL, NULL);
+
+INSERT INTO ModifierArguments (ModifierId, Name, Value) VALUES 
+('MODIFIER_FFXIV_2_WATER_MILL_CULTURE', 'Amount', '2'), 
+('MODIFIER_FFXIV_2_WATER_MILL_CULTURE', 'BuildingType', 'BUILDING_WATER_MILL'), 
+('MODIFIER_FFXIV_2_WATER_MILL_CULTURE', 'YieldType', 'YIELD_CULTURE');

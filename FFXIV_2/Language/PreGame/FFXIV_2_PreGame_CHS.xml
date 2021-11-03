@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_PreGame_CHS -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 8:14:17 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_FOREST_CORE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>无法收获资源，树林及雨林地形+1食物+2信仰，水磨额外+2文化并为该城市所有淡水单元格提供+1生产力。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_FOREST_CORE_NAME" Language="zh_Hans_CN">
+			<Text>森林与水车之都</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_FOREST_NAME" Language="zh_Hans_CN">
+			<Text>格里达尼亚</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_FOREST_MAIN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有单位自然回复+10，信仰值可购买所有单位。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_FOREST_MAIN_NAME" Language="zh_Hans_CN">
+			<Text>幻术皇之首</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FFXIV_2_FOREST_MAIN_NAME" Language="zh_Hans_CN">
+			<Text>嘉恩·艾·神纳</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_SEA_CORE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>渔船+1生产力，+1食物，海上商人免疫掠夺，掠夺产出额外+50%，城市厌战情绪降低50%，免费获得航海术科技。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_SEA_CORE_NAME" Language="zh_Hans_CN">
+			<Text>自由与海洋之都</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_SEA_NAME" Language="zh_Hans_CN">
+			<Text>利姆萨·罗敏萨</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_SEA_MAIN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>单位取消生命值对战斗力的减益，生产海上单位时+25%生产力。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_SEA_MAIN_NAME" Language="zh_Hans_CN">
+			<Text>最高司令官</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FFXIV_2_SEA_MAIN_NAME" Language="zh_Hans_CN">
+			<Text>梅尔维布·布鲁菲斯维因</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_DESERT_CORE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>免疫沙尘暴伤害，给予绿洲+2金币+2文化，无总督就职的城市+10%所有产出。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_DESERT_CORE_NAME" Language="zh_Hans_CN">
+			<Text>沙漠与财富之都</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_FFXIV_2_DESERT_NAME" Language="zh_Hans_CN">
+			<Text>乌尔达哈</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_DESERT_MAIN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>敌方间谍位于自己拥有总督的城市领土内行动等级-1，目的地国际城市每有一个奢侈品为商路提供+2文化+2金币。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_DESERT_MAIN_NAME" Language="zh_Hans_CN">
+			<Text>第十七代国王</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FFXIV_2_DESERT_MAIN_NAME" Language="zh_Hans_CN">
+			<Text>娜娜莫·乌尔·娜莫</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_FOREST_ARMY_NAME" Language="zh_Hans_CN">
+			<Text>牙蛇将军</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_FOREST_ARMY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有单位无视雨林及树林的移动力及视野减益。</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_FOREST_NAME" Language="zh_Hans_CN">
+			<Text>双蛇党</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_FOREST_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代弓箭手。于本土内开始行动+1移动力+10战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_FOREST_NAME" Language="zh_Hans_CN">
+			<Text>姆恩·图伊豆工坊</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_FOREST_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代工作坊。消耗更少的产能,额外+3信仰值，+1生产力，+1文化，+1住房。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_FOREST_NAME" Language="zh_Hans_CN">
+			<Text>冥想窟</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_FOREST_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代圣地，只能建在森林上。专家人口提供2点文化，每个相邻的树木+1信仰与食物。</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_FOREST_NAME" Language="zh_Hans_CN">
+			<Text>森林伐木场</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_FOREST_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>无法相邻建造，额外+2信仰，+2生产力。临近河流额外+1生产力。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_DESERT_ARMY_NAME" Language="zh_Hans_CN">
+			<Text>耀辉元帅</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_DESERT_ARMY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>黄金时代提供1点移动力，黑暗时代+5战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_DESERT_NAME" Language="zh_Hans_CN">
+			<Text>恒辉队</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_DESERT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代剑客，周围每有一个相同单位+5战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_DESERT_NAME" Language="zh_Hans_CN">
+			<Text>圣柜堂</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_DESERT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代寺庙。额外+4金币与文化，给予两个额外的遗物文物栏位。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_DESERT_NAME" Language="zh_Hans_CN">
+			<Text>斗技场</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_DESERT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代娱乐中心。提供1点大将军点数和2点额外的城市防御，每相邻一个其他区域+2文化+2金币。</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_DESERT_NAME" Language="zh_Hans_CN">
+			<Text>集市</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_DESERT_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>无法相邻建造，+2金币+1文化+1生产力，为单位提供+10防御。</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_SEA_ARMY_NAME" Language="zh_Hans_CN">
+			<Text>漩涡提督</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_FFXIV_2_SEA_ARMY_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>所有单位不需要对应科技即可进入深海单元格。</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_SEA_NAME" Language="zh_Hans_CN">
+			<Text>黑涡团</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FFXIV_2_SEA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代斥候，拥有额外的+1移动力，+10战斗力。</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_SEA_NAME" Language="zh_Hans_CN">
+			<Text>国际广场</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_FFXIV_2_SEA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代市场。额外提供+2文化，+1大工程师，+1大科学家。</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_SEA_NAME" Language="zh_Hans_CN">
+			<Text>海关</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_FFXIV_2_SEA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>替代港口。相邻的市中心为其提供+4金币。每种奢侈品为拥有海关的城市额外提供1宜居度。并提供军营的防御和远程攻击力。</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_SEA_NAME" Language="zh_Hans_CN">
+			<Text>酿酒厂</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_FFXIV_2_SEA_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>无法相邻建造。城市的每个不同地貌为其+1金币+1文化+1生产力。</Text>
+		</Row>
+
+
+
+	</LocalizedText>
+</GameData>

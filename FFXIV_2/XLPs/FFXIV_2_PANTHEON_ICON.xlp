@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="FFXIV_2_PANTHEON_ICON"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_FIRE_100"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_FIRE_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_FIRE_22"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_FIRE_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_FIRE_50"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_FIRE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_LAND_100"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_LAND_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_LAND_22"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_LAND_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_LAND_50"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_LAND_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_THUNDER_100"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_THUNDER_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_THUNDER_22"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_THUNDER_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_THUNDER_50"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_THUNDER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_WATER_100"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WATER_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_WATER_22"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WATER_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_WATER_50"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WATER_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_WIND_100"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WIND_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_WIND_22"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WIND_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="BELIEF_FFXIV_2_WIND_50"/>
+			<m_ObjectName text="BELIEF_FFXIV_2_WIND_50"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

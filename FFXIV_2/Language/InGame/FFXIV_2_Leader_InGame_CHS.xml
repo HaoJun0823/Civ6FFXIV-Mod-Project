@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Leader_InGame_CHS -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 10:45:41 PM -->
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_AGENDA_FFXIV_2_FOREST_MAIN_NAME" Language="zh_Hans_CN">
+			<Text>元灵评议会</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FFXIV_2_FOREST_MAIN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FFXIV_2_SEA_MAIN_NAME" Language="zh_Hans_CN">
+			<Text>加拉迪翁协议</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FFXIV_2_SEA_MAIN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FFXIV_2_DESERT_MAIN_NAME" Language="zh_Hans_CN">
+			<Text>沙蝎众</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_FFXIV_2_DESERT_MAIN_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+
+
+		<Row Tag="LOC_LEADER_FFXIV_2_FOREST_MAIN_MEETING" Language="zh_Hans_CN">
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FFXIV_2_SEA_MAIN_MEETING" Language="zh_Hans_CN">
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_FFXIV_2_DESERT_MAIN_MEETING" Language="zh_Hans_CN">
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+
+		<Row Tag="LOC_LOADING_INFO_LEADER_FFXIV_2_FOREST_MAIN" Language="zh_Hans_CN">
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_FFXIV_2_SEA_MAIN" Language="zh_Hans_CN">
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_FFXIV_2_DESERT_MAIN" Language="zh_Hans_CN">
+			<Text>{LOC_FFXIV_2_NOT_DONE}</Text>
+		</Row>
+
+	</LocalizedText>
+</GameData>

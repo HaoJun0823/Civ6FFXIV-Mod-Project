@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- FFXIV_2_Building_Core -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 10/27/2021 8:15:21 PM -->
+<GameData>
+	<Types>
+		<Row Type="BUILDING_FFXIV_2_DESERT" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_FFXIV_2_FOREST" Kind="KIND_BUILDING"/>
+		<Row Type="BUILDING_FFXIV_2_SEA" Kind="KIND_BUILDING"/>
+
+		<Row Type="TRAIT_CIVILIZATION_FFXIV_2_BUILDING_DESERT" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_FFXIV_2_BUILDING_FOREST" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_CIVILIZATION_FFXIV_2_BUILDING_SEA" Kind="KIND_TRAIT"/>
+
+	</Types>
+	<Buildings>
+
+		<Row BuildingType="BUILDING_FFXIV_2_DESERT" TraitType="TRAIT_CIVILIZATION_FFXIV_2_BUILDING_DESERT" Name="LOC_BUILDING_FFXIV_2_DESERT_NAME" Description="LOC_BUILDING_FFXIV_2_DESERT_DESCRIPTION" PrereqCivic="CIVIC_THEOLOGY" PrereqDistrict="DISTRICT_HOLY_SITE" PurchaseYield="YIELD_GOLD" Cost="120" AdvisorType="ADVISOR_RELIGIOUS" Maintenance="2" CitizenSlots="1"/>
+		<Row BuildingType="BUILDING_FFXIV_2_FOREST" TraitType="TRAIT_CIVILIZATION_FFXIV_2_BUILDING_FOREST" Name="LOC_BUILDING_FFXIV_2_FOREST_NAME" Description="LOC_BUILDING_FFXIV_2_FOREST_DESCRIPTION" PrereqTech="TECH_APPRENTICESHIP" PrereqDistrict="DISTRICT_INDUSTRIAL_ZONE" PurchaseYield="YIELD_GOLD" Cost="150" AdvisorType="ADVISOR_GENERIC" Maintenance="1" CitizenSlots="1" Housing="1"/>
+		<Row BuildingType="BUILDING_FFXIV_2_SEA"    TraitType="TRAIT_CIVILIZATION_FFXIV_2_BUILDING_SEA"    Name="LOC_BUILDING_FFXIV_2_SEA_NAME"    Description="LOC_BUILDING_FFXIV_2_SEA_DESCRIPTION"    PrereqTech="TECH_CURRENCY" PrereqDistrict="DISTRICT_COMMERCIAL_HUB" PurchaseYield="YIELD_GOLD" Cost="120" AdvisorType="ADVISOR_GENERIC" CitizenSlots="1"/>
+
+	</Buildings>
+
+	<Traits>
+		<Row TraitType="TRAIT_CIVILIZATION_FFXIV_2_BUILDING_DESERT" Name="LOC_BUILDING_FFXIV_2_DESERT_NAME" Description="LOC_BUILDING_FFXIV_2_DESERT_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_FFXIV_2_BUILDING_FOREST" Name="LOC_BUILDING_FFXIV_2_FOREST_NAME" Description="LOC_BUILDING_FFXIV_2_FOREST_DESCRIPTION"/>
+		<Row TraitType="TRAIT_CIVILIZATION_FFXIV_2_BUILDING_SEA"    Name="LOC_BUILDING_FFXIV_2_SEA_NAME"    Description="LOC_BUILDING_FFXIV_2_SEA_DESCRIPTION"/>
+	</Traits>
+
+	<Building_GreatPersonPoints>
+
+		<Row BuildingType="BUILDING_FFXIV_2_SEA" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_FFXIV_2_SEA" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="1"/>
+		<Row BuildingType="BUILDING_FFXIV_2_SEA" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="1"/>
+
+		<Row BuildingType="BUILDING_FFXIV_2_FOREST" GreatPersonClassType="GREAT_PERSON_CLASS_ENGINEER" PointsPerTurn="1"/>>
+		
+	</Building_GreatPersonPoints>
+
+	<BuildingPrereqs>
+
+		<Row Building="BUILDING_FFXIV_2_DESERT" PrereqBuilding="BUILDING_SHRINE"/>
+		
+	</BuildingPrereqs>
+
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_FFXIV_2_DESERT" ReplacesBuildingType="BUILDING_TEMPLE"/>
+		<Row CivUniqueBuildingType="BUILDING_FFXIV_2_FOREST" ReplacesBuildingType="BUILDING_WORKSHOP"/>
+		<Row CivUniqueBuildingType="BUILDING_FFXIV_2_SEA" ReplacesBuildingType="BUILDING_MARKET"/>
+	</BuildingReplaces>
+
+	<Building_GreatWorks>
+
+		<Row BuildingType="BUILDING_FFXIV_2_DESERT" GreatWorkSlotType="GREATWORKSLOT_RELIC" NumSlots="3"/>
+		
+	</Building_GreatWorks>
+
+	<Building_YieldChanges>
+
+		<Row BuildingType="BUILDING_FFXIV_2_DESERT" YieldType="YIELD_FAITH" YieldChange="4"/>
+		<Row BuildingType="BUILDING_FFXIV_2_DESERT" YieldType="YIELD_GOLD" YieldChange="4"/>
+		<Row BuildingType="BUILDING_FFXIV_2_DESERT" YieldType="YIELD_CULTURE" YieldChange="4"/>
+
+		<Row BuildingType="BUILDING_FFXIV_2_FOREST" YieldType="YIELD_PRODUCTION" YieldChange="1"/>
+		<Row BuildingType="BUILDING_FFXIV_2_FOREST" YieldType="YIELD_CULTURE" YieldChange="1"/>
+
+		<Row BuildingType="BUILDING_FFXIV_2_SEA" YieldType="YIELD_CULTURE" YieldChange="2"/>
+
+	</Building_YieldChanges>
+
+</GameData>

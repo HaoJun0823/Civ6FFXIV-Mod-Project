@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="FFXIV_2_RELIGION_ICON"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_1_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_1_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_1_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_1_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_1_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_1_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_10_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_10_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_10_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_10_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_10_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_10_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_11_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_11_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_11_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_11_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_11_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_11_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_12_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_12_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_12_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_12_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_12_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_12_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_2_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_2_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_2_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_2_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_2_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_2_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_3_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_3_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_3_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_3_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_3_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_3_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_4_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_4_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_4_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_4_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_4_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_4_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_5_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_5_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_5_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_5_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_5_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_5_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_6_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_6_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_6_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_6_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_6_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_6_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_7_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_7_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_7_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_7_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_7_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_7_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_8_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_8_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_8_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_8_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_8_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_8_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_9_100"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_9_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_9_22"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_9_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="RELIGION_FFXIV_2_9_50"/>
+			<m_ObjectName text="RELIGION_FFXIV_2_9_50"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

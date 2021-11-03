@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Old_PlayerColors -->
+<!-- Author: HaoJun0823 -->
+<!-- DateCreated: 11/2/2021 8:45:30 PM -->
+<GameData>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FFXIV_2_FOREST_MAIN_PRIMARY</Type>
+			<Color>255,198,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FFXIV_2_FOREST_MAIN_SECONDARY</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FFXIV_2_DESERT_MAIN_PRIMARY</Type>
+			<Color>14,14,14,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FFXIV_2_DESERT_MAIN_SECONDARY</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FFXIV_2_SEA_MAIN_PRIMARY</Type>
+			<Color>90,0,0,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_LEADER_FFXIV_2_SEA_MAIN_SECONDARY</Type>
+			<Color>255,255,255,255</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_FFXIV_2_FOREST_MAIN</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_FFXIV_2_FOREST_MAIN_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_FFXIV_2_FOREST_MAIN_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_LEADER_FFXIV_2_FOREST_MAIN_PRIMARY</TextColor>
+		</Row>
+		<Row>
+			<Type>LEADER_FFXIV_2_DESERT_MAIN</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_FFXIV_2_DESERT_MAIN_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_FFXIV_2_DESERT_MAIN_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_LEADER_FFXIV_2_DESERT_MAIN_PRIMARY</TextColor>
+		</Row>
+		<Row>
+			<Type>LEADER_FFXIV_2_SEA_MAIN</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_LEADER_FFXIV_2_SEA_MAIN_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_LEADER_FFXIV_2_SEA_MAIN_SECONDARY</SecondaryColor>
+			<TextColor>COLOR_PLAYER_LEADER_FFXIV_2_SEA_MAIN_PRIMARY</TextColor>
+		</Row>
+	</PlayerColors>
+</GameData>
