@@ -14,7 +14,7 @@
 			<Text>格里达尼亚</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_FOREST_MAIN_DESCRIPTION" Language="zh_Hans_CN">
-			<Text>所有单位自然回复+10，信仰值可购买所有单位。</Text>
+			<Text>所有单位自然回复+10，信仰值可购买陆地军事单位。</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_FOREST_MAIN_NAME" Language="zh_Hans_CN">
 			<Text>幻术皇之首</Text>

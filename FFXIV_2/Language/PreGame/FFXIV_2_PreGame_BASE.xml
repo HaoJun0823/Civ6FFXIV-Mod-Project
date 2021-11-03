@@ -14,7 +14,7 @@
 			<Text>Gridania</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_FOREST_MAIN_DESCRIPTION" >
-			<Text>All units recover +10, and all units can be purchased with faith points.</Text>
+			<Text>All units recover +10, and land army units can be purchased with faith points.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_LEADER_FFXIV_2_FOREST_MAIN_NAME" >
 			<Text>Seedseers</Text>

@@ -38,36 +38,36 @@
 	</BeliefModifiers>-->
 	<BeliefModifiers>
 		<Row BeliefType="BELIEF_FFXIV_2_FIRE">
-			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE</ModifierId>
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE_ATTACH</ModifierId>
 		</Row>
 		<Row BeliefType="BELIEF_FFXIV_2_WIND">
-			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE</ModifierId>
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE_ATTACH</ModifierId>
 		</Row>
 		<Row BeliefType="BELIEF_FFXIV_2_LAND">
-			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE</ModifierId>
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE_ATTACH</ModifierId>
 		</Row>
 		<Row BeliefType="BELIEF_FFXIV_2_THUNDER">
-			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE</ModifierId>
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE_ATTACH</ModifierId>
 		</Row>
 		<Row BeliefType="BELIEF_FFXIV_2_WATER">
-			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE</ModifierId>
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_SCIENCE_ATTACH</ModifierId>
 		</Row>
 	</BeliefModifiers>
 	<BeliefModifiers>
 		<Row BeliefType="BELIEF_FFXIV_2_FIRE">
-			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE</ModifierId>
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE_ATTACH</ModifierId>
 		</Row>
 		<Row BeliefType="BELIEF_FFXIV_2_WIND">
-			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE</ModifierId>
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE_ATTACH</ModifierId>
 		</Row>
 		<Row BeliefType="BELIEF_FFXIV_2_LAND">
-			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE</ModifierId>
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE_ATTACH</ModifierId>
 		</Row>
 		<Row BeliefType="BELIEF_FFXIV_2_THUNDER">
-			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE</ModifierId>
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE_ATTACH</ModifierId>
 		</Row>
 		<Row BeliefType="BELIEF_FFXIV_2_WATER">
-			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE</ModifierId>
+			<ModifierId>MODIFIER_BELIEF_FFXIV_2_GLOBAL_CULTURE_ATTACH</ModifierId>
 		</Row>
 	</BeliefModifiers>
 </GameData>
