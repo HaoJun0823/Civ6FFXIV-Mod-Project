@@ -39,6 +39,19 @@
 		
 	</Improvement_ValidBuildUnits>
 
+	<!--<Improvement_ValidFeatures>
+
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_FOREST" FeatureType="FEATURE_FOREST"/>
+		<Row ImprovementType="IMPROVEMENT_FFXIV_2_FOREST" FeatureType="FEATURE_JUNGLE"/>
+		
+	</Improvement_ValidFeatures>-->
+
+	<Improvement_ValidTerrains>
+		
+		
+		
+	</Improvement_ValidTerrains>
+
 	<Improvement_Adjacencies>
 
 		<Row ImprovementType="IMPROVEMENT_FFXIV_2_FOREST" YieldChangeId="FFXIV_FOREST_river"/>
